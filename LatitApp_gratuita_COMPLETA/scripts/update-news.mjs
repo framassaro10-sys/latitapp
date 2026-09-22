@@ -60,7 +60,7 @@ $('a[href]').each((_,a)=>{
   const parent=clean($(a).parent().parent().text());
   const data=isoDate(parent) || isoDate($(a).closest('article,li,div').text());
   if(!data) return;
-  const url=new URL(href,URL).href;
+  const url = new globalThis.URL(href, 'https://direzioneinvestigativaantimafia.interno.gov.it/').href;
   const luogo=location(title,parent);
   const sintesi=`Comunicazione istituzionale della Direzione Investigativa Antimafia. ${luogo}.`;
   found.push({data,categoria:category(title),titolo,sintesi,dettagli:[`Fonte istituzionale: Direzione Investigativa Antimafia.`,`La scheda completa è disponibile sul sito ufficiale della DIA.`],fonte:'Direzione Investigativa Antimafia',url});
