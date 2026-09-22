@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 
 const URL = 'https://direzioneinvestigativaantimafia.interno.gov.it/category/comunicatistampa/';
-const OUT = new URL('../news.json', import.meta.url);
+const OUT = new URL('../news.json', import.meta.url).pathname;
 
 const KEYWORDS = /maf|camorr|ndranghet|\bclan\b|latitant|blitz|arrest|sequestr|estors|riciclag|criminalit[àa] organizzata|associazione per delinquere/i;
 const REGIONI = [
