@@ -1,0 +1,8 @@
+{
+  "name": "latitapp-news-updater",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
