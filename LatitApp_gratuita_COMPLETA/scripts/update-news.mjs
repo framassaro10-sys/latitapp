@@ -222,7 +222,7 @@ async function fetchRSS(source) {
             : `${luogo}. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.`,
         dettagli: [
           `Fonte: ${source.name}.`,
-          'Leggi l'articolo completo alla fonte originale.'
+          "Leggi l'articolo completo alla fonte originale."
         ],
         fonte: source.name,
         url: link
