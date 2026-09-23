@@ -1725,7 +1725,7 @@
         }
         async function caricaNewsAutomatiche() {
             try {
-                const r = await fetch(`news.json?ts=${Date.now()}`, { cache: 'no-store' });
+                const r = await fetch(`LatitApp_gratuita_COMPLETA/news.json?ts=${Date.now()}`, { cache: 'no-store' });
                 if (!r.ok) return;
                 const dati = await r.json();
                 if (!Array.isArray(dati)) return;
@@ -2318,38 +2318,6 @@ caricaFotoWiki();
         else window.addEventListener("load", avvia);
 
     </script>
-<script>
-async function caricaNewsAutomatiche() {
-  try {
-    const risposta = await fetch('./news.json?t=' + Date.now(), {
-      cache: 'no-store'
-    });
-
-    if (!risposta.ok) {
-      throw new Error('news.json non disponibile');
-    }
-
-    const news = await risposta.json();
-
-    console.log('News automatiche caricate:', news);
-
-    /*
-     * Rende disponibili le news automatiche all'app.
-     * Se l'app usa già una variabile news, la aggiorniamo.
-     */
-    window.newsAutomatiche = news;
-
-    if (typeof renderNews === 'function') {
-      renderNews(news);
-    }
-
-  } catch (errore) {
-    console.error('Errore caricamento news:', errore);
-  }
-}
-
-caricaNewsAutomatiche();
-</script>
 </body>
 
 </html>
