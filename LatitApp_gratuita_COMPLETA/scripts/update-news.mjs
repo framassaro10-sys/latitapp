@@ -245,7 +245,13 @@ const dia = await fetchDIA();
 const feeds = [];
 
 for (const source of SOURCES) {
-  feeds.push(await fetchRSS(source));
+  const risultati = await fetchRSS(source);
+
+  console.log(
+    `${source.name}: ${risultati.length} articoli trovati`
+  );
+
+  feeds.push(risultati);
 }
 
 const nuove = [
