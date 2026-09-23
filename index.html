@@ -1725,7 +1725,7 @@
         }
         async function caricaNewsAutomatiche() {
             try {
-                const r = await fetch(`LatitApp_gratuita_COMPLETA/news.json?ts=${Date.now()}`, { cache: 'no-store' });
+                const r = await fetch(`news.json?ts=${Date.now()}`, { cache: 'no-store' });
                 if (!r.ok) return;
                 const dati = await r.json();
                 if (!Array.isArray(dati)) return;
