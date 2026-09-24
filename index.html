@@ -126,6 +126,32 @@
             letter-spacing: -0.025em;
         }
 
+
+        .maxi-blitz-subtitle {
+            padding: 0 20px 10px;
+            font-size: 17px;
+            line-height: 1.35;
+            color: var(--ink-2);
+            letter-spacing: -0.01em;
+        }
+
+        
+        .latitanti-subtitle {
+            padding: 0 20px 10px;
+            font-size: 17px;
+            line-height: 1.35;
+            color: var(--ink-2);
+            letter-spacing: -0.01em;
+        }
+
+.arrestati-subtitle {
+            padding: 0 20px 10px;
+            font-size: 17px;
+            line-height: 1.35;
+            color: var(--ink-2);
+            letter-spacing: -0.01em;
+        }
+
         .back {
             display: inline-flex;
             align-items: center;
@@ -892,6 +918,7 @@
 
         <main>
             <section id="v-latitanti" class="view is-active" aria-label="Elenco dei latitanti">
+                <div class="latitanti-subtitle">I latitanti ancora ricercati</div>
                 <ul class="list" id="lista"></ul>
             </section>
 
@@ -908,10 +935,12 @@
             </section>
 
             <section id="v-arrestati" class="view" aria-label="Elenco degli arrestati">
+                <div class="arrestati-subtitle">I principali latitanti catturati</div>
                 <ul class="list" id="lista-a"></ul>
             </section>
 
-            <section id="v-operazioni" class="view" aria-label="Elenco delle operazioni">
+            <section id="v-operazioni" class="view" aria-label="Elenco dei Maxi-Blitz">
+<div class="maxi-blitz-subtitle">Le migliori operazioni Anti-Mafia</div>
                 <ul class="list" id="lista-o"></ul>
             </section></main>
 
@@ -947,7 +976,7 @@
                     <path d="M20 13c0 5-3.5 7.5-7.35 8.95a1 1 0 0 1-.6.01C8.5 20.5 5 18 5 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C15.51 3.79 18 5 20 5a1 1 0 0 1 1 1z" />
                     <path d="M8.5 12.3l2.6 2.6 4.4-4.9" />
                 </svg>
-                Operazioni
+                Maxi-Blitz
             </button>
         </div>
     </nav>
@@ -1324,6 +1353,417 @@
                     nota: "Il civico varia da una fonte all’altra (324 o 424): il punto è la via."
                 },
                 pericolosita: 3
+            },
+            {
+                nome: "Benedetto",
+                cognome: "Santapaola",
+                foto: [],
+                wiki: "en:Benedetto_Santapaola",
+                alias: "Nitto",
+                org: "Cosa nostra",
+                nato: "1938-06-04",
+                luogoNascita: "Catania",
+                oggi: "In carcere al 41-bis, ergastolo",
+                arresto: "1993-05-18",
+                ente: "Polizia di Stato",
+                da: "Polizia di Stato: Squadra Mobile di Catania e SCO",
+                latDal: "1983",
+                anniLat: 10,
+                ruolo: "Capo di Cosa nostra catanese e alleato dei Corleonesi.",
+                fatti: [
+                    "Fu arrestato il 18 maggio 1993 in una casa di campagna nella zona di Mazzarrone, nel Catanese.",
+                    "Era latitante da dieci anni ed era considerato il numero uno della mafia di Catania.",
+                    "Condannato all’ergastolo per omicidi e per il ruolo di vertice in Cosa nostra."
+                ],
+                luogo: "Campagne di Mazzarrone (Catania): casolare in cui si nascondeva.",
+                pericolosita: 5
+            },
+            {
+                nome: "Francesco",
+                cognome: "Schiavone",
+                foto: [],
+                wiki: "en:Francesco_Schiavone",
+                alias: "Sandokan",
+                org: "Camorra (Casalesi)",
+                nato: "1954-03-03",
+                luogoNascita: "Casal di Principe (CE)",
+                oggi: "In carcere al 41-bis, ergastolo",
+                arresto: "1998-07-11",
+                ente: "Carabinieri",
+                da: "Carabinieri e Polizia di Stato, in operazione congiunta",
+                latDal: "1990",
+                anniLat: 8,
+                ruolo: "Capo storico del clan dei Casalesi.",
+                fatti: [
+                    "Fu catturato l’11 luglio 1998 a Casal di Principe, nel suo territorio, in una villa con un nascondiglio interno.",
+                    "Era il capo del clan più potente della provincia di Caserta.",
+                    "Condannato all’ergastolo nel processo «Spartacus»."
+                ],
+                luogo: "Casal di Principe (Caserta): villa con bunker.",
+                pericolosita: 5
+            },
+            {
+                nome: "Antonio",
+                cognome: "Iovine",
+                foto: [],
+                wiki: "en:Antonio_Iovine",
+                alias: "’o Ninno",
+                org: "Camorra (Casalesi)",
+                nato: "",
+                luogoNascita: "Casal di Principe (CE)",
+                oggi: "Collaboratore di giustizia",
+                arresto: "2010-11-17",
+                ente: "Polizia di Stato",
+                da: "Polizia di Stato: Squadra Mobile di Napoli e Caserta",
+                latDal: "1996",
+                anniLat: 14,
+                ruolo: "Boss dei Casalesi e figura di vertice del clan dopo l’arresto di Schiavone.",
+                fatti: [
+                    "Fu arrestato il 17 novembre 2010 a Casal di Principe, il suo paese.",
+                    "Latitante dal 1996, era tra i primi cinque ricercati più pericolosi.",
+                    "Dopo l’arresto ha deciso di collaborare con la giustizia."
+                ],
+                luogo: "Casal di Principe (Caserta): appartamento nel centro del paese.",
+                pericolosita: 4
+            },
+            {
+                nome: "Domenico",
+                cognome: "Raccuglia",
+                foto: [],
+                wiki: "en:Domenico_Raccuglia",
+                alias: "’u dutturi",
+                org: "Cosa nostra",
+                nato: "",
+                luogoNascita: "Altofonte (PA)",
+                oggi: "In carcere, ergastolo",
+                arresto: "2009-11-15",
+                ente: "Polizia di Stato",
+                da: "Polizia di Stato: Squadra Mobile di Palermo e Trapani, con SCO",
+                latDal: "1996",
+                anniLat: 13,
+                ruolo: "Capomandamento di Altofonte e figura di primo piano di Cosa nostra dopo Provenzano.",
+                fatti: [
+                    "Fu arrestato il 15 novembre 2009 a Calatafimi Segesta, nel Trapanese, in un casolare di campagna.",
+                    "Era ricercato da 13 anni ed era nell’elenco dei latitanti di massima pericolosità.",
+                    "Condannato all’ergastolo per omicidi e associazione mafiosa."
+                ],
+                luogo: "Calatafimi Segesta (Trapani): casolare in campagna.",
+                pericolosita: 4
+            },
+            {
+                nome: "Pasquale",
+                cognome: "Condello",
+                foto: [],
+                wiki: "en:Pasquale_Condello",
+                alias: "il Supremo",
+                org: "’Ndrangheta",
+                nato: "",
+                luogoNascita: "Reggio Calabria",
+                oggi: "In carcere, ergastolo",
+                arresto: "2008-02-18",
+                ente: "Polizia di Stato",
+                da: "Polizia di Stato: Squadra Mobile di Reggio Calabria e SCO",
+                latDal: "1990",
+                anniLat: 18,
+                ruolo: "Capo dell’omonima cosca di Reggio Calabria, protagonista della seconda guerra di ’ndrangheta.",
+                fatti: [
+                    "Fu arrestato il 18 febbraio 2008 a Reggio Calabria, la sua città.",
+                    "Era latitante da 18 anni e aveva continuato a governare la cosca nonostante la clandestinità.",
+                    "Condannato all’ergastolo per omicidi e associazione mafiosa."
+                ],
+                luogo: "Reggio Calabria: appartamento in città.",
+                pericolosita: 5
+            },
+            {
+                nome: "Giovanni",
+                cognome: "Tegano",
+                foto: [],
+                wiki: "en:Giovanni_Tegano",
+                alias: "",
+                org: "’Ndrangheta",
+                nato: "",
+                luogoNascita: "Reggio Calabria",
+                oggi: "In carcere, ergastolo",
+                arresto: "2010-04-25",
+                ente: "Polizia di Stato",
+                da: "Polizia di Stato: Squadra Mobile di Reggio Calabria",
+                latDal: "1993",
+                anniLat: 17,
+                ruolo: "Capo della cosca Tegano, alleata dei De Stefano nel quartiere di Archi.",
+                fatti: [
+                    "Fu arrestato il 25 aprile 2010 a Reggio Calabria, nel quartiere di Archi.",
+                    "Era latitante da 17 anni e si nascondeva a pochi passi dal suo territorio.",
+                    "Condannato per associazione mafiosa e omicidi."
+                ],
+                luogo: "Reggio Calabria, quartiere Archi: nascondiglio in un’abitazione.",
+                pericolosita: 4
+            },
+            {
+                nome: "Paolo",
+                cognome: "Di Lauro",
+                foto: [],
+                wiki: "en:Paolo_Di_Lauro",
+                alias: "Ciruzzo ’o milionario",
+                org: "Camorra",
+                nato: "",
+                luogoNascita: "Napoli",
+                oggi: "In carcere, ergastolo",
+                arresto: "2005-09-16",
+                ente: "Carabinieri",
+                da: "Carabinieri del Comando provinciale di Napoli",
+                latDal: "2002",
+                anniLat: 3,
+                ruolo: "Capo dell’omonimo clan di Secondigliano e Scampia, il cartello della droga di Napoli nord.",
+                fatti: [
+                    "Fu catturato il 16 settembre 2005 a Napoli, dopo tre anni di latitanza.",
+                    "La sua fuga aveva aperto la faida di Scampia, tra il clan Di Lauro e gli scissionisti.",
+                    "Padre di Marco Di Lauro, anche lui latitante e poi arrestato nel 2019."
+                ],
+                luogo: "Napoli: rifugio in città, nella zona nord.",
+                pericolosita: 4
+            },
+            {
+                nome: "Giuseppe",
+                cognome: "Graviano",
+                foto: [],
+                wiki: "en:Giuseppe_Graviano",
+                alias: "Madre Natura",
+                org: "Cosa nostra",
+                nato: "1963-09-30",
+                luogoNascita: "Palermo",
+                oggi: "In carcere al 41-bis, ergastolo",
+                arresto: "1994-01-27",
+                ente: "Carabinieri",
+                da: "Carabinieri, a Milano",
+                latDal: "",
+                anniLat: "",
+                ruolo: "Capo del mandamento di Brancaccio e regista della stagione stragista del 1993.",
+                fatti: [
+                    "Fu arrestato il 27 gennaio 1994 a Milano, insieme al fratello Filippo.",
+                    "Condannato all’ergastolo come mandante delle stragi del 1993 a Firenze, Milano e Roma e dell’omicidio di Padre Pino Puglisi.",
+                    "Detenuto in regime di 41-bis."
+                ],
+                luogo: "Milano: fu fermato con il fratello Filippo, in città.",
+                pericolosita: 5
+            },
+            {
+                nome: "Filippo",
+                cognome: "Graviano",
+                foto: [],
+                wiki: "en:Filippo_Graviano",
+                alias: "",
+                org: "Cosa nostra",
+                nato: "1961-01-17",
+                luogoNascita: "Palermo",
+                oggi: "In carcere al 41-bis, ergastolo",
+                arresto: "1994-01-27",
+                ente: "Carabinieri",
+                da: "Carabinieri, a Milano",
+                latDal: "",
+                anniLat: "",
+                ruolo: "Fratello di Giuseppe e cogestore del mandamento di Brancaccio.",
+                fatti: [
+                    "Fu arrestato il 27 gennaio 1994 a Milano, insieme a Giuseppe.",
+                    "Condannato all’ergastolo per le stragi del 1993 e per l’omicidio di Padre Puglisi.",
+                    "Detenuto in regime di 41-bis."
+                ],
+                luogo: "Milano: fu fermato con il fratello Giuseppe, in città.",
+                pericolosita: 5
+            },
+            {
+                nome: "Pietro",
+                cognome: "Aglieri",
+                foto: [],
+                wiki: "en:Pietro_Aglieri",
+                alias: "’u signurinu",
+                org: "Cosa nostra",
+                nato: "1959-06-26",
+                luogoNascita: "Palermo",
+                oggi: "In carcere, ergastolo",
+                arresto: "1997-06-06",
+                ente: "Carabinieri",
+                da: "Carabinieri, a Palermo",
+                latDal: "1992",
+                anniLat: 5,
+                ruolo: "Capo del mandamento di Santa Maria di Gesù, tra i boss di vertice dopo Riina.",
+                fatti: [
+                    "Fu arrestato il 6 giugno 1997 a Palermo, dopo cinque anni di latitanza.",
+                    "Era considerato uno dei più raffinati strateghi di Cosa nostra.",
+                    "Condannato all’ergastolo per omicidi e stragi."
+                ],
+                luogo: "Palermo: rifugio in città.",
+                pericolosita: 5
+            },
+            {
+                nome: "Luciano",
+                cognome: "Liggio",
+                foto: [],
+                wiki: "en:Luciano_Liggio",
+                alias: "Lucianeddu",
+                org: "Cosa nostra",
+                nato: "1925-01-06",
+                luogoNascita: "Corleone (PA)",
+                morto: "1993-11-15",
+                arresto: "1974-05-16",
+                ente: "",
+                da: "",
+                latDal: "1969",
+                anniLat: 5,
+                ruolo: "Fondatore dei Corleonesi e mentore di Riina e Provenzano.",
+                fatti: [
+                    "Fu arrestato il 16 maggio 1974 a Milano, dopo cinque anni di latitanza.",
+                    "Con la sua ascesa i Corleonesi presero il controllo di Cosa nostra.",
+                    "Morì in carcere a Nuoro il 15 novembre 1993."
+                ],
+                luogo: "Milano: fu catturato in città.",
+                pericolosita: 5
+            },
+            {
+                nome: "Pasquale",
+                cognome: "Bonavota",
+                foto: [],
+                wiki: "it:Pasquale_Bonavota",
+                alias: "",
+                org: "’Ndrangheta",
+                nato: "",
+                luogoNascita: "Sant’Onofrio (VV)",
+                oggi: "In carcere",
+                arresto: "2023-04-27",
+                ente: "Carabinieri",
+                da: "Carabinieri, a Genova",
+                latDal: "2018",
+                anniLat: 5,
+                ruolo: "Capo della cosca Bonavota di Sant’Onofrio (Vibo Valentia).",
+                fatti: [
+                    "Fu arrestato il 27 aprile 2023 a Genova, davanti alla cattedrale di San Lorenzo.",
+                    "Era latitante dal 2018 ed era tra i ricercati più pericolosi d’Italia.",
+                    "La sua latitanza fu favorita da una rete di fiancheggiatori."
+                ],
+                luogo: "Genova: fu fermato davanti alla cattedrale di San Lorenzo.",
+                mappa: {
+                    q: "Cattedrale di San Lorenzo, Genova",
+                    z: 17,
+                    nota: ""
+                },
+                pericolosita: 4
+            },
+            {
+                nome: "Giuseppe",
+                cognome: "Setola",
+                foto: [],
+                wiki: "en:Giuseppe_Setola",
+                alias: "",
+                org: "Camorra (Casalesi)",
+                nato: "",
+                luogoNascita: "Casal di Principe (CE)",
+                oggi: "In carcere, ergastolo",
+                arresto: "2010-01-14",
+                ente: "",
+                da: "",
+                latDal: "2008",
+                anniLat: 2,
+                ruolo: "Capo del gruppo di fuoco dei Casalesi, autore della strage di Castel Volturno.",
+                fatti: [
+                    "Fu arrestato il 14 gennaio 2010 a Mignano Monte Lungo (Caserta).",
+                    "Era in fuga dal 2008, quando si allontanò dagli arresti domiciliari.",
+                    "Guidò la stagione di sangue dei Casalesi, con la strage di Castel Volturno del 2008."
+                ],
+                luogo: "Mignano Monte Lungo (Caserta): villa in cui si nascondeva.",
+                pericolosita: 4
+            },
+            {
+                nome: "Giovanni",
+                cognome: "Nicchi",
+                foto: [],
+                wiki: "it:Gianni_Nicchi",
+                alias: "",
+                org: "Cosa nostra",
+                nato: "",
+                luogoNascita: "Palermo",
+                oggi: "In carcere",
+                arresto: "2009-12-05",
+                ente: "",
+                da: "",
+                latDal: "",
+                anniLat: "",
+                ruolo: "Capo del mandamento di Pagliarelli, giovane boss emergente di Palermo.",
+                fatti: [
+                    "Fu arrestato il 5 dicembre 2009 a Palermo.",
+                    "Era indicato come uno degli eredi del comando di Cosa nostra palermitana."
+                ],
+                luogo: "Palermo: rifugio in città.",
+                pericolosita: 4
+            },
+            {
+                nome: "Gerlandino",
+                cognome: "Messina",
+                foto: [],
+                wiki: "it:Gerlandino_Messina",
+                alias: "",
+                org: "Cosa nostra",
+                nato: "",
+                luogoNascita: "Agrigento",
+                oggi: "In carcere",
+                arresto: "2010-10-23",
+                ente: "",
+                da: "",
+                latDal: "",
+                anniLat: "",
+                ruolo: "Capo della mafia agrigentina, tra i latitanti più pericolosi.",
+                fatti: [
+                    "Fu arrestato il 23 ottobre 2010 a Favara (Agrigento).",
+                    "Era in cima alla lista dei latitanti di massima pericolosità."
+                ],
+                luogo: "Favara (Agrigento): abitazione.",
+                pericolosita: 4
+            },
+            {
+                nome: "Giovanni",
+                cognome: "Strangio",
+                foto: [],
+                wiki: "en:Giovanni_Strangio",
+                alias: "",
+                org: "’Ndrangheta",
+                nato: "",
+                luogoNascita: "San Luca (RC)",
+                oggi: "In carcere, ergastolo",
+                arresto: "2009-03-12",
+                ente: "",
+                da: "Polizia olandese, con la Polizia di Stato",
+                latDal: "2007",
+                anniLat: 2,
+                ruolo: "Killer della faida di San Luca, esecutore della strage di Duisburg.",
+                fatti: [
+                    "Fu arrestato il 12 marzo 2009 ad Amsterdam, nei Paesi Bassi.",
+                    "Era in fuga dopo la strage di Duisburg del 15 agosto 2007, in cui morirono sei italiani.",
+                    "Condannato all’ergastolo."
+                ],
+                luogo: "Amsterdam (Paesi Bassi): fu catturato all’estero.",
+                pericolosita: 4
+            },
+            {
+                nome: "Rocco",
+                cognome: "Morabito",
+                foto: [],
+                wiki: "it:Rocco_Morabito",
+                alias: "u tamunga",
+                org: "’Ndrangheta",
+                nato: "",
+                luogoNascita: "Africo (RC)",
+                oggi: "In carcere",
+                arresto: "2021-05-24",
+                ente: "",
+                da: "Polizia brasiliana, con Polizia di Stato e Interpol",
+                latDal: "1994",
+                anniLat: "",
+                ruolo: "Broker della cocaina per le cosche calabresi, tra i trafficanti più ricercati al mondo prima della cattura.",
+                fatti: [
+                    "Fu arrestato il 24 maggio 2021 a San Paolo, in Brasile, in un'operazione internazionale.",
+                    "Era considerato uno dei principali broker della cocaina per conto della 'ndrangheta.",
+                    "La cattura arrivò dopo anni di ricerche tra Sudamerica ed Europa."
+                ],
+                luogo: "San Paolo (Brasile): fu catturato in città.",
+                pericolosita: 4
             }
         ];
 
@@ -1618,7 +2058,7 @@
         const NEWS_SEZIONI = [
             {
                 key: "operazioni",
-                titolo: "Operazioni",
+                titolo: "Maxi-Blitz",
                 categorie: ["Operazione", "Blitz"]
             },
             {
@@ -1974,7 +2414,7 @@ function menuO(aperto) {
                     latitanti: "Latitanti",
                     news: "News",
                     arrestati: "Arrestati",
-                    operazioni: "Operazioni",
+                    operazioni: "Maxi-Blitz",
                     impostazioni: "Impostazioni"
                 };
                 $("indietro").hidden = nome !== "scheda";
