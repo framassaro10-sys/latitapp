@@ -870,7 +870,7 @@
                     </div>
                 </div>
                 <div class="sortwrap" id="ordina-o-wrap" hidden>
-                    <button class="sort" id="ordina-o" type="button" aria-haspopup="menu" aria-expanded="false" aria-label="Ordina le operazioni">
+                    <button class="sort" id="ordina-o" type="button" aria-haspopup="menu" aria-expanded="false" aria-label="Ordina i migliori blitz">
                         <span id="ordina-o-l">Più arresti</span>
                         <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
                             <path d="M5 8l5 5 5-5" />
@@ -939,7 +939,7 @@
                 <ul class="list" id="lista-a"></ul>
             </section>
 
-            <section id="v-operazioni" class="view" aria-label="Elenco dei Maxi-Blitz">
+            <section id="v-operazioni" class="view" aria-label="Elenco dei migliori blitz">
 <div class="maxi-blitz-subtitle">Le migliori operazioni Anti-Mafia</div>
                 <ul class="list" id="lista-o"></ul>
             </section></main>
@@ -976,7 +976,7 @@
                     <path d="M20 13c0 5-3.5 7.5-7.35 8.95a1 1 0 0 1-.6.01C8.5 20.5 5 18 5 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C15.51 3.79 18 5 20 5a1 1 0 0 1 1 1z" />
                     <path d="M8.5 12.3l2.6 2.6 4.4-4.9" />
                 </svg>
-                Maxi-Blitz
+                Migliori blitz
             </button>
         </div>
     </nav>
@@ -2387,7 +2387,7 @@ function renderOperazioni() {
   });
   $("lista-o").innerHTML = ordO.map((o, i) => rigaListaOp(o, i)).join("");
   $("ordina-o-l").textContent = attivi.length ? attivi.map(k => LAB_O[k][selO[k]]).join("  ·  ") : "Ordina";
-  $("ordina-o").setAttribute("aria-label", attivi.length ? "Ordine: " + attivi.map(k => LAB_O[k][selO[k]]).join(", ") : "Ordina le operazioni");
+  $("ordina-o").setAttribute("aria-label", attivi.length ? "Ordine: " + attivi.map(k => LAB_O[k][selO[k]]).join(", ") : "Ordina i migliori blitz");
   document.querySelectorAll("#menu-o button").forEach(b => {
     const [g, d] = b.dataset.k.split("-");
     const on = selO[g] === d;
@@ -2414,7 +2414,7 @@ function menuO(aperto) {
                     latitanti: "Latitanti",
                     news: "News",
                     arrestati: "Arrestati",
-                    operazioni: "Maxi-Blitz",
+                    operazioni: "Migliori blitz",
                     impostazioni: "Impostazioni"
                 };
                 $("indietro").hidden = nome !== "scheda";
@@ -2599,7 +2599,7 @@ function apriScheda(p, da) {
   origine = da;
   corrente = p;
   $("v-scheda").innerHTML = da === "arrestati" ? schedaArrestato(p) : da === "operazioni" ? schedaOperazione(p) : schedaLatitante(p);
-  $("indietro-l").textContent = da === "arrestati" ? "Arrestati" : da === "operazioni" ? "Operazioni" : "Latitanti";
+  $("indietro-l").textContent = da === "arrestati" ? "Arrestati" : da === "operazioni" ? "Migliori blitz" : "Latitanti";
   scrollLista = window.scrollY;
   mostra("scheda", "forward");
 }
@@ -2716,15 +2716,45 @@ document.addEventListener("keydown", e => { if (e.key === "Escape") { menuA(fals
            e aggiunge automaticamente la foto principale della relativa pagina Wikipedia. */
         async function caricaFotoWiki() {
             const dati = [...LATITANTI, ...ARRESTATI];
-            await Promise.all(dati.filter(p => p.wiki && !(Array.isArray(p.foto) && p.foto.length)).map(async p => {
+            const senzaFoto = p => p.wiki && !(Array.isArray(p.foto) && p.foto.length);
+            const aggiungi = (p, src) => { if (src && !p.foto.includes(src)) p.foto.push(src); };
+
+            /* 1) foto principale della pagina Wikipedia indicata in "wiki" */
+            const daPagina = async (lang, titolo) => {
+                const endpoint = `https://${lang}.wikipedia.org/w/api.php?action=query&prop=pageimages&piprop=thumbnail&pithumbsize=640&redirects=1&format=json&origin=*&titles=${encodeURIComponent(titolo)}`;
+                const r = await fetch(endpoint, { cache: "force-cache" });
+                if (!r.ok) return "";
+                const pagine = (await r.json()).query.pages;
+                return ((Object.values(pagine)[0] || {}).thumbnail || {}).source || "";
+            };
+
+            await Promise.all(dati.filter(senzaFoto).map(async p => {
                 try {
                     const [lang, titolo] = p.wiki.split(":");
-                    const endpoint = `https://${lang}.wikipedia.org/w/api.php?action=query&prop=pageimages&piprop=thumbnail&pithumbsize=640&redirects=1&format=json&origin=*&titles=${encodeURIComponent(titolo)}`;
-                    const r = await fetch(endpoint, { cache: "force-cache" });
+                    aggiungi(p, await daPagina(lang, titolo));
+                } catch (_) {}
+            }));
+
+            /* 2) Solo per gli arrestati ancora senza foto: si passa da Wikidata, cioè dalla
+                  stessa persona (mai una ricerca per nome, per non rischiare foto di omonimi):
+                  a) immagine collegata alla persona (P18, da Wikimedia Commons)
+                  b) foto principale della pagina della stessa persona in un'altra lingua (en/it) */
+            const ESCLUSI = ["en:Benedetto_Santapaola"]; /* foto da non toccare */
+            await Promise.all(ARRESTATI.filter(p => senzaFoto(p) && !ESCLUSI.includes(p.wiki)).map(async p => {
+                try {
+                    const [lang, titolo] = p.wiki.split(":");
+                    const url = `https://www.wikidata.org/w/api.php?action=wbgetentities&sites=${lang}wiki&titles=${encodeURIComponent(titolo)}&props=claims|sitelinks&sitefilter=enwiki|itwiki&format=json&origin=*`;
+                    const r = await fetch(url, { cache: "force-cache" });
                     if (!r.ok) return;
-                    const pagine = (await r.json()).query.pages;
-                    const src = ((Object.values(pagine)[0] || {}).thumbnail || {}).source;
-                    if (src && !(p.foto || []).includes(src)) p.foto.push(src);
+                    const ent = Object.values((await r.json()).entities || {})[0];
+                    if (!ent || ent.missing !== undefined) return;
+                    const file = (((ent.claims || {}).P18 || [])[0] || {}).mainsnak?.datavalue?.value;
+                    if (file) aggiungi(p, `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(file)}?width=640`);
+                    for (const l of ["en", "it"]) {
+                        const t = ((ent.sitelinks || {})[l + "wiki"] || {}).title;
+                        if (!t || l === lang) continue;
+                        aggiungi(p, await daPagina(l, t));
+                    }
                 } catch (_) {}
             }));
             renderLista();
