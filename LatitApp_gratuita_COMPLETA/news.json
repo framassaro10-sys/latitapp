@@ -62,18 +62,6 @@
   {
     "data": "2026-09-29",
     "categoria": "Operazioni",
-    "titolo": "Mafia - Il Sole 24 ORE",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - Il Sole 24 Ore.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - Il Sole 24 Ore",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxQTJ2ZHliSkdvcnBFb1RmZmJmMWZjNW90Sm1mTDZieFRaTURUWGZybG9tR2lWMF82YnZ3a3J1SEcwMUM4X0ZhcXVlQTgyTHRIbUtwcnNKYUd6VE1yUXlNdGxQYk5TMVRFTHRSTW5wNXQzYmU5U19PU0hHTk8?oc=5"
-  },
-  {
-    "data": "2026-09-29",
-    "categoria": "Operazioni",
     "titolo": "Roma invasa dalle golf car, valanga di multe e patenti ritirate dopo i blitz dei carabinieri - Il Messaggero - Motori",
     "sintesi": "Roma, Lazio. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
@@ -82,6 +70,18 @@
     ],
     "fonte": "Google News - Il Messaggero",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa0F2aTJTNzR4dFlkenlCUk14M1BPaUNkMlBBbk9TWXphaE10UTZ1NUVvYjRMcndiM19KaFVPV3ByREY1NHRIRmQ5aWljZU5heXlaakc0bG41TjhCbmpiS2xadHVBVGk4cTBlNHhyUkVtd0NKVmhXVzR2SUpEVHRINkE1QXJBZ3A2TjZaVExrSHFKbU0wSFlIS1dxcDFUUndYcHkxcW03a2ozYkNvZ25YT1BkU0p5Z1NaVy1tVl9CZGlUQnA4aWt0STVXelZLUUo3eGE3V3NKTWs?oc=5"
+  },
+  {
+    "data": "2026-09-29",
+    "categoria": "Operazioni",
+    "titolo": "Mafia - Il Sole 24 ORE",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - Il Sole 24 Ore.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - Il Sole 24 Ore",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxQTJ2ZHliSkdvcnBFb1RmZmJmMWZjNW90Sm1mTDZieFRaTURUWGZybG9tR2lWMF82YnZ3a3J1SEcwMUM4X0ZhcXVlQTgyTHRIbUtwcnNKYUd6VE1yUXlNdGxQYk5TMVRFTHRSTW5wNXQzYmU5U19PU0hHTk8?oc=5"
   },
   {
     "data": "2026-09-29",
@@ -458,7 +458,7 @@
   {
     "data": "2026-09-24",
     "categoria": "Operazioni",
-    "titolo": "Omegna, vende metadone in piazza sotto gli occhi della polizia: arrestato un uomo di 52 anni - La Stampa",
+    "titolo": "Omegna, vende metadone in piazza sotto gli occhi della polizia: arrestato un uomo di 52 anni - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -638,7 +638,7 @@
   {
     "data": "2026-09-23",
     "categoria": "Operazioni",
-    "titolo": "Palazzo confiscato ad Arona: il Comune si candida alla gestione - La Stampa",
+    "titolo": "Palazzo confiscato ad Arona: il Comune si candida alla gestione - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -974,7 +974,7 @@
   {
     "data": "2026-09-21",
     "categoria": "Operazioni",
-    "titolo": "Camorra, blitz all’alba tra Caivano e Casoria: 34 arrestati legati al clan Angelino - La Stampa",
+    "titolo": "Camorra, blitz all’alba tra Caivano e Casoria: 34 arrestati legati al clan Angelino - lastampa.it",
     "sintesi": "Casoria, Campania. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -1214,7 +1214,7 @@
   {
     "data": "2026-09-19",
     "categoria": "Operazioni",
-    "titolo": "L’interdittiva antimafia e il potere del prefetto di graduazione degli effetti preclusivi - ntplusentilocaliepa.ilsole24ore.com",
+    "titolo": "L’interdittiva antimafia e il potere del prefetto di graduazione degli effetti preclusivi - Il Sole 24 ORE",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - Il Sole 24 Ore.",
@@ -1490,7 +1490,7 @@
   {
     "data": "2026-09-16",
     "categoria": "Operazioni",
-    "titolo": "Blitz nei boschi dello spaccio a Crevoladossola: sequestrati cocaina, hashish e contanti - La Stampa",
+    "titolo": "Blitz nei boschi dello spaccio a Crevoladossola: sequestrati cocaina, hashish e contanti - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -1550,7 +1550,7 @@
   {
     "data": "2026-09-15",
     "categoria": "Operazioni",
-    "titolo": "Blitz di Ultima Generazione nella sede Sanpaolo a Porta Palazzo: attivisti fermati dalla polizia - La Stampa",
+    "titolo": "Blitz di Ultima Generazione nella sede Sanpaolo a Porta Palazzo: attivisti fermati dalla polizia - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -1562,7 +1562,7 @@
   {
     "data": "2026-09-15",
     "categoria": "Operazioni",
-    "titolo": "Dopo il “blitz” animalista restituiti al proprietario 17 cani sequestrati a Dego - La Stampa",
+    "titolo": "Dopo il “blitz” animalista restituiti al proprietario 17 cani sequestrati a Dego - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -1598,7 +1598,7 @@
   {
     "data": "2026-09-10",
     "categoria": "Operazioni",
-    "titolo": "Controlli antimafia nel cantiere del Roja a Ventimiglia: verifiche sulla correttezza dell’appalto - La Stampa",
+    "titolo": "Controlli antimafia nel cantiere del Roja a Ventimiglia: verifiche sulla correttezza dell’appalto - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -1706,7 +1706,7 @@
   {
     "data": "2026-08-30",
     "categoria": "Operazioni",
-    "titolo": "Camorra: omicidio nel Napoletano, ucciso “storico” boss - La Stampa",
+    "titolo": "Camorra: omicidio nel Napoletano, ucciso “storico” boss - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -1851,6 +1851,18 @@
   {
     "data": "2026-07-31",
     "categoria": "Operazioni",
+    "titolo": "Caso Delmastro, blitz fallito di Dori: i commessi gli negano l'accesso alla cassaforte con le chat - lastampa.it",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0ZBMjJtc0RsT3JRNUM4LTRIdkUxWWkweGdQek4wdVloT0FmN0NGSGJnSkZoSWhnT3FSdi1lN3NIa1RfQ1lVdDhfN1UzQm14eGhiQjJIUDJKWUY3NW9RNjNsRFowMmE3UExpcnNIMTFKbnEweVdZTTdMMGswYm94Rlc3aFM3c0pjZEI3MklPb3ctR2NtcVNsOUQ2Ny3SAaIBQVVfeXFMTVVsaEdNdTYtU1BuS2szT3hNYm4tLTZYWWNRVXU0MzA4OGFuZl80R0tJWlU5eUpnZUxfb0wtY0tjUmNqdzBJUHdPZ3pON2ZzU0k3TlJtZV9VRThtMVR5d0puN1J3d3praTRIM0Q3T3FIbWFJVDVuLXBnVU9ZMmZZSVhGR2hEbTZJdWt6QXNjblprSHhzZEJZM2NKWlRFNGp2TDFB?oc=5"
+  },
+  {
+    "data": "2026-07-31",
+    "categoria": "Operazioni",
     "titolo": "Giovani, memoria e impegno: contro la mafia vince il coraggio di esserci - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
@@ -1859,18 +1871,6 @@
     ],
     "fonte": "Google News - La Stampa",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblRmNzFQSjg0ZVB2V3REQ2JKOTFPbjZmdkNUUjZkVkl6TkJicWMtY0c3WTlXenpRdWZHNUZZR0NWVmF4UXdIMFRuejJFd05udjBJTWRNZS1JWFh4bzlzUks1ZS1jbk9jaE96RVdEUVpPRVA4TmRpd01seUZUcGZCU3ZHcFdCVFRuSzQweWEycEVjWkpYbTIzZ0pYVjRQRmpGVnl3Rng1ZUNveGs3MUJHWmFFek5wUdIBuwFBVV95cUxPUVc3SlN5QzJHV2ZCdzllMmR5SFh0WE5Gdzltc3FJZ0FvWG9pT3FKUHcyZDlxMXVKU3g0MGlYWXlMd012Q1FBeXY2Rk83emVGNWhFR2NjakFqaFZFS2hQc1E4eE5xeWZNaGUwaW1JZDkwUUNQOXJ1bnBlSWZTM3NXTUU4UzViaER2b3RpeDhIb1FUOVpDZHVxeFA1Z1pSLV92TkJ0MmtKdHBDbHJwZWlYb3YxY2lYZ0JsSW0w?oc=5"
-  },
-  {
-    "data": "2026-07-31",
-    "categoria": "Operazioni",
-    "titolo": "Caso Delmastro, blitz fallito di Dori: i commessi gli negano l'accesso alla cassaforte con le chat - La Stampa",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - La Stampa.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - La Stampa",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0ZBMjJtc0RsT3JRNUM4LTRIdkUxWWkweGdQek4wdVloT0FmN0NGSGJnSkZoSWhnT3FSdi1lN3NIa1RfQ1lVdDhfN1UzQm14eGhiQjJIUDJKWUY3NW9RNjNsRFowMmE3UExpcnNIMTFKbnEweVdZTTdMMGswYm94Rlc3aFM3c0pjZEI3MklPb3ctR2NtcVNsOUQ2Ny3SAaIBQVVfeXFMTVVsaEdNdTYtU1BuS2szT3hNYm4tLTZYWWNRVXU0MzA4OGFuZl80R0tJWlU5eUpnZUxfb0wtY0tjUmNqdzBJUHdPZ3pON2ZzU0k3TlJtZV9VRThtMVR5d0puN1J3d3praTRIM0Q3T3FIbWFJVDVuLXBnVU9ZMmZZSVhGR2hEbTZJdWt6QXNjblprSHhzZEJZM2NKWlRFNGp2TDFB?oc=5"
   },
   {
     "data": "2026-07-20",
@@ -2130,7 +2130,7 @@
   {
     "data": "2026-05-08",
     "categoria": "Operazioni",
-    "titolo": "La figlia del clan racconta la ’ndrangheta a caccia della libertà - 24+ - 24plus.ilsole24ore.com",
+    "titolo": "La figlia del clan racconta la ’ndrangheta a caccia della libertà - 24+ - Il Sole 24 ORE",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - Il Sole 24 Ore.",
@@ -2178,7 +2178,7 @@
   {
     "data": "2026-04-24",
     "categoria": "Operazioni",
-    "titolo": "Polymarket, arrestato soldato Usa del blitz contro Maduro: scommise e vinse 400mila dollari - La Stampa",
+    "titolo": "Polymarket, arrestato soldato Usa del blitz contro Maduro: scommise e vinse 400mila dollari - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -2282,6 +2282,18 @@
     ],
     "fonte": "Direzione Investigativa Antimafia",
     "url": "https://direzioneinvestigativaantimafia.interno.gov.it/2026/la-direzione-investigativa-antimafia-sequestra-beni-e-proprieta-a-soggetti-sardi-dediti-al-traffico-di-sostanze-stupefacenti-per-u-giro-daffari-di-circa-8-milioni-di-euro/"
+  },
+  {
+    "data": "2026-03-20",
+    "categoria": "Operazioni",
+    "titolo": "Camorrista prepara pizze in carcere, gli agenti le sequestrano: li insulta e finisce a processo - lastampa.it",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjdtbWdaWnNreDFsNzR0bUVCSzFhVlZSS3VhUDZIS19CVm1rVnVBZWhZdlFadTlraEdlSkJwZUxDU3N0Z2RuV3RTZnpnYVFCMG5MYnRHMW81dDFrX1VfdnU3OUFHdzlnTEFJMEdScGNaZ2liSFI3T29DRkRHdGtHUkNiMGtVV3RzZllHdjRYWUZ3VF9WTGfSAZsBQVVfeXFMTXhtUW1sdG5BR0NTTG1laGZVU3pabldZaUlVYkZZUFpHb2tVUG15c2V2U0VmZUhOek9XWDRkcnFfaDNhdG5zeVJzTzVqZ3hPNnRHQlc5OXFjbHY3bWJuQjR1ZS14TnBQaFRsQkdnQU9wNkozMkxHS24tcDIxd01MN3gzMDZRd3lkYTZtMHN1cDlaN2hnVjdXTDRQMms?oc=5"
   },
   {
     "data": "2026-03-05",
@@ -2682,7 +2694,7 @@
   {
     "data": "2025-09-03",
     "categoria": "Operazioni",
-    "titolo": "Imponeva i cantanti neomelodici alle feste di paese, in manette un uomo del clan dei Casalesi - La Stampa",
+    "titolo": "Imponeva i cantanti neomelodici alle feste di paese, in manette un uomo del clan dei Casalesi - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -2718,7 +2730,7 @@
   {
     "data": "2025-07-03",
     "categoria": "Operazioni",
-    "titolo": "3 luglio 1975: quando la ‘ndrangheta si svegliò “Santa” e l’Italia “dannata” - 24plus.ilsole24ore.com",
+    "titolo": "3 luglio 1975: quando la ‘ndrangheta si svegliò “Santa” e l’Italia “dannata” - Il Sole 24 ORE",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - Il Sole 24 Ore.",
@@ -2742,7 +2754,7 @@
   {
     "data": "2025-05-28",
     "categoria": "Operazioni",
-    "titolo": "Allarme Antimafia: “Ponte sullo Stretto nel mirino della criminalità organizzata” - La Stampa",
+    "titolo": "Allarme Antimafia: “Ponte sullo Stretto nel mirino della criminalità organizzata” - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -2766,7 +2778,7 @@
   {
     "data": "2025-05-21",
     "categoria": "Operazioni",
-    "titolo": "Maxi blitz contro la ‘ndrangheta, 97 arresti. Il monopolio della coca in Europa era gestito dai clan - La Stampa",
+    "titolo": "Maxi blitz contro la ‘ndrangheta, 97 arresti. Il monopolio della coca in Europa era gestito dai clan - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -2838,7 +2850,7 @@
   {
     "data": "2025-04-15",
     "categoria": "Operazioni",
-    "titolo": "Camorra, blitz a Napoli: 24 arresti, colpiti i clan Troncone e Frizziero - La Stampa",
+    "titolo": "Camorra, blitz a Napoli: 24 arresti, colpiti i clan Troncone e Frizziero - lastampa.it",
     "sintesi": "Napoli, Campania. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -2922,7 +2934,7 @@
   {
     "data": "2025-03-06",
     "categoria": "Operazioni",
-    "titolo": "Maxi blitz antidroga nel Napoletano: donne spacciavano con neonati in braccio - La Stampa",
+    "titolo": "Maxi blitz antidroga nel Napoletano: donne spacciavano con neonati in braccio - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3006,7 +3018,7 @@
   {
     "data": "2025-01-21",
     "categoria": "Operazioni",
-    "titolo": "Mafia, così torna la regola aurea del 3% di pizzo sui lavori stradali - 24plus.ilsole24ore.com",
+    "titolo": "Mafia, così torna la regola aurea del 3% di pizzo sui lavori stradali - Il Sole 24 ORE",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - Il Sole 24 Ore.",
@@ -3030,7 +3042,7 @@
   {
     "data": "2024-12-01",
     "categoria": "Operazioni",
-    "titolo": "Dalla mafia 4.0 all’antimafia 4.0: la ricetta della Fondazione Caponnetto - La Stampa",
+    "titolo": "Dalla mafia 4.0 all’antimafia 4.0: la ricetta della Fondazione Caponnetto - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3064,6 +3076,18 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjMzNVlDTm1iUTEzeUkwOXhQQV9xbWVDdjlKdDY3WkNuaENQLTZ1RXF4R2RaQ0NkYjhDQmt3NGpINzFObm9ESTdFUzAyUm1mU1RNaWJjcXQwWHAtNkI2MllBdFZYdDdKUUFJVGZIZk5Ma2l5Q0ZyOHBSQ2oxUmJoRVc5S3ZRQUlPNE5Wb1puRFJiYjN0WjdXR0NlaVVzSEwwZ3l5RkNlb3l2VW5zMkE?oc=5"
   },
   {
+    "data": "2024-10-21",
+    "categoria": "Operazioni",
+    "titolo": "Arrestato in Colombia il boss della camorra Gustavo Nocella - lastampa.it",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2M5UzFFMTgxczl4MXJwdEhJZUNmZWgweHNyR1BReXltV1hWdm5yZ1BwWTFFai1SQm5WN0xyaWRVbnF0eHpXdG5Talo2QmZPZ1JlZVYxeEhkT19VRGhUckNoT0N4MVh5T29xaVhOMWQ2NmpMRHNETm5LM0ZjYW5IYS1qYkxSVmxFeDhvZERRRnI3MWhpMEtCcE1nLVliczlm0gGmAUFVX3lxTE9QMzNyNDY3MDNJMGI3VUtWdU1DY2pUMzhpQzZZeFFDYTA2N0FRNFF5YW9VUnpDOWFHU1Zham00NE1kYklXbjNvQlpMQ2RuZlVXZVFOUUpCalh3WjNvZzJWMVRBb3VCYzdWeTlNV1R0cXJweXFtWGdTZGs1T2lEQjV0OVFZbWZIOXZRQTc1NlcxYzZqUzRKdjQ1NlJZS01KZ2FrLXZ5bEE?oc=5"
+  },
+  {
     "data": "2024-10-17",
     "categoria": "Operazioni",
     "titolo": "Rischio mafia, stop a Cogefa: interdittiva al colosso dei cantieri tra clan e imprenditori collusi - La Stampa",
@@ -3078,7 +3102,7 @@
   {
     "data": "2024-10-14",
     "categoria": "Operazioni",
-    "titolo": "Camorra, boss dei Casalesi in libertà vigilata riorganizza il clan: 14 arresti - La Stampa",
+    "titolo": "Camorra, boss dei Casalesi in libertà vigilata riorganizza il clan: 14 arresti - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3126,7 +3150,7 @@
   {
     "data": "2024-09-27",
     "categoria": "Operazioni",
-    "titolo": "Mafia, maxi operazione in Puglia contro il clan Soleti. Traffico di droga e gestione dei rifiuti: 25 arresti - La Stampa",
+    "titolo": "Mafia, maxi operazione in Puglia contro il clan Soleti. Traffico di droga e gestione dei rifiuti: 25 arresti - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3134,6 +3158,18 @@
     ],
     "fonte": "Google News - La Stampa",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVTlwRVBUa3d0ejJFTTRLWlhubnJlZ0w5Sy10MVhyZndmb3JsdHVieGlPS3lUa2ZhdUZkUXIxVVNRVVYxUUh1YUw5MVBVOHZLTVFrNmRiX1RsdmFpV1ZFSkNnSlpOSHo3SF9zUVJ5Sk55cGMyRUZBUWdEeHQwTXZ2RS1rVXF0dHdkdkZ1TDhEMTdsUW5jcUpv0gGcAUFVX3lxTFBCNFJkVk1ZdXAyS0kzSF93UmtHZENMQXp3NkROY3J1UzRFU2VxZGhsd2dSNkN5aWYxMTVvZ05QREhUUzdvNlNoT3BTX1BpOWhwaDRJVXo3dm0yOUo3UkN5clRVaXdMQmowR2o3a096cXlCTnpzXzZucmlWTzEwVW1Helk0c09EcVVIbHFwMVYwMXhZTk9EWFBHZ0VISw?oc=5"
+  },
+  {
+    "data": "2024-09-16",
+    "categoria": "Operazioni",
+    "titolo": "Mafia e vuoti di potere dopo Messina Denaro: dieci arresti nel Trapanese. Tra loro anche l’ex senatore Nino P… - lastampa.it",
+    "sintesi": "Messina, Sicilia. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEllUnFSUEJvMlhVY0VxdTVNZU1FemtSb1Bja0tiRmlXU3R6X0ZuZ01ReXF4OTZpbmc0enNOSDRIeDRpZHFEa0pXemlUTjA3X0kyWUQ0WGRJNjcwRThjVkFYYmsxc3hHZnoxNUlteVlOY3FRYW01QWJJYkU5clg4LXNMMXFNZWFwaGU3bzBGYWtMcEZPTUtmNHpfMXVOa2xxaXhyb3NZaHY0Zk9ZNGfSAbMBQVVfeXFMTTM5NTFfNWNNeDZzeUROdVpkWlAyUnlWeVREN2FIYkZNdUFUcTB0ZHp6cDI0cGtySjVZczYwNllWLXRKZWh5aVR2bkRQaVhvUU9RcmF5UFJzQm1sSU1MVFY3cWpOQlRUcWNBOVRqdWFxUG50dFVKS3c2OVM5RVZ5RDY4aGtYVkx6cHAtYnA2blVSaGtzQ3FZcDhQVlY3RmtzN1ZMMnhsaDFNRkNYTXN2R19qYWM?oc=5"
   },
   {
     "data": "2024-07-09",
@@ -3162,7 +3198,7 @@
   {
     "data": "2024-07-05",
     "categoria": "Operazioni",
-    "titolo": "La Camorra alla conquista dell’Emilia Romagna: maxi confisca da 100 milioni a due imprenditori collusi coi cl… - La Stampa",
+    "titolo": "La Camorra alla conquista dell’Emilia Romagna: maxi confisca da 100 milioni a due imprenditori collusi coi cl… - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3174,7 +3210,7 @@
   {
     "data": "2024-07-04",
     "categoria": "Operazioni",
-    "titolo": "La parabola di Natoli, dal pool antimafia all’accusa di aver favorito Cosa nostra - 24plus.ilsole24ore.com",
+    "titolo": "La parabola di Natoli, dal pool antimafia all’accusa di aver favorito Cosa nostra - Il Sole 24 ORE",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - Il Sole 24 Ore.",
@@ -3292,6 +3328,18 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGR6WjdheWduM0JTcV91cmU0d0tNM0MtekRKRDNCcmlzenpPVlk5c2R5ek5TYTZmWFJ1bGhSTlBaczNzZHA3RUZicHFsa1ozWExCNVl2dDlxenhBTWNINUd6a0FzTFFka0NEbWtWM25FazhjUDQ1VVo3UFU2WEVHMGFwdFp3RWY2eFRqcmZGZjJSdVR0VmlUV2p4WlRpN3JnWG5yYzlNd9IBrAFBVV95cUxNVkRLX3BkV0JkTVFiS0RWMGR1WU1TeUJrMk10RXNkRWtiVVB1Z3o4cWNHR2JrUzBvYmZHTkVnZzJuTEVFRTR4SGpLZUV6b0tKZmNuVnhRWHI0a01WUUw3V0puMDN2T3pEc2J0RWNRVldscWVaelM1ZW5vN1k5eXNMajVxVXZvQlB6UU1rVFJSdnV2WnptajY4R0RrbDhCYkl0TVdnRndQMG92Sm1x?oc=5"
   },
   {
+    "data": "2024-02-15",
+    "categoria": "Operazioni",
+    "titolo": "Guerra di camorra per il controllo del territorio tra Caivano, Arzano e Frattamaggiore: 11 arresti - lastampa.it",
+    "sintesi": "Caivano, Campania. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYTZiTWpha2NjelQyR2gtLTRjUG1xdGJjeFY4eE14UjhOWGJRNjltRHRqWWZ4MzNlbm5Db25qbGFyVWM5djA3UEY3NVJPQUh4MDdWX3lmMHoyaDBhb1N6MnEzR2FjSUgxaFRnNk9LaW1ZZzFKQ2pldkFkWHh2OHVZbEdDOWRtbC04R2FGUnZST1JKTzJhYVNMcTZWR0dwMXRTWVoxWFVmNjVuLTVLZmx3c3ZwTmJCZVpuTmptdUNnMUZQaUNXVVliaHhLYi1pakxDTUFBR0lLM0h0eGlSU0tZQVN4eHY2aHdFbGfSAe8BQVVfeXFMTXBsOXVzWHMzTVlJNmdzNktib3YtU1VsYWJzbmtmdG5QVWphWGNxSjc1RGNlTzVtYUpZMlZWWnliUTd2MVVCU21IUWF3RGRjUThIZHJkNzVnX29DUjVKVV9wQ2VQVU12WHRMVnVCWGg4RHE1cW9EN0h1TXp3VjdlbWdNY0NuVGwwdXhUV1paZ0JPUUVtY3pkd2Q4cGVyS3hOZDA4QUVLVHBzVzRZcWpDbWdxOVFNM0QxYTlYU0JqZFhzMVZlXzRUUTNLdXF4bXlVamdIVEpOTjhnYTQyaTZqbUFxaF9Nb3Y2Nk1jTjRaQWM?oc=5"
+  },
+  {
     "data": "2024-01-23",
     "categoria": "Operazioni",
     "titolo": "Moto Guzzi V7 Stone Ten è un tributo a passione guzzista. Allestimento dedicato ai 10 anni della community The Clan - Il Messaggero - Motori",
@@ -3318,7 +3366,7 @@
   {
     "data": "2024-01-16",
     "categoria": "Operazioni",
-    "titolo": "Maxiprocesso ai Casamonica, per la Cassazione è mafia - La Stampa",
+    "titolo": "Maxiprocesso ai Casamonica, per la Cassazione è mafia - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3390,7 +3438,7 @@
   {
     "data": "2023-11-28",
     "categoria": "Operazioni",
-    "titolo": "Blitz anti-camorra di polizia e carabinieri a Ponticelli: 16 arresti - La Stampa",
+    "titolo": "Blitz anti-camorra di polizia e carabinieri a Ponticelli: 16 arresti - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3414,7 +3462,7 @@
   {
     "data": "2023-11-07",
     "categoria": "Operazioni",
-    "titolo": "Camorra, blitz a Scampia: arrestati 37 affiliati al clan Abbinante - La Stampa",
+    "titolo": "Camorra, blitz a Scampia: arrestati 37 affiliati al clan Abbinante - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3474,7 +3522,7 @@
   {
     "data": "2023-08-11",
     "categoria": "Operazioni",
-    "titolo": "'Ndrangheta: 8 arresti a Reggio Calabria, tra loro un boss del Vibonese - La Stampa",
+    "titolo": "'Ndrangheta: 8 arresti a Reggio Calabria, tra loro un boss del Vibonese - lastampa.it",
     "sintesi": "Reggio Calabria, Calabria. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3510,7 +3558,7 @@
   {
     "data": "2023-08-01",
     "categoria": "Operazioni",
-    "titolo": "La nuova Cosa Nostra dopo Messina Denaro: nuovi patti con la ’ndrangheta per tornare protagonista nel mondo d… - La Stampa",
+    "titolo": "La nuova Cosa Nostra dopo Messina Denaro: nuovi patti con la ’ndrangheta per tornare protagonista nel mondo d… - lastampa.it",
     "sintesi": "Messina, Sicilia. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3522,7 +3570,7 @@
   {
     "data": "2023-07-26",
     "categoria": "Operazioni",
-    "titolo": "Incendi, la mafia dietro i roghi: le fiamme usate per creare lavoro. Ecco la regia delle cosche - Il Messaggero",
+    "titolo": "Incendi, la mafia dietro i roghi: le fiamme usate per creare lavoro. Ecco la regia delle cosche - ilmessaggero.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - Il Messaggero.",
@@ -3594,7 +3642,7 @@
   {
     "data": "2023-04-27",
     "categoria": "Latitanti",
-    "titolo": "Arrestato Pasquale Bonavota, super latitante della ‘ndrangheta. Dalla Calabria al Piemonte per scalare i clan… - La Stampa",
+    "titolo": "Arrestato Pasquale Bonavota, super latitante della ‘ndrangheta. Dalla Calabria al Piemonte per scalare i clan… - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3642,7 +3690,7 @@
   {
     "data": "2023-03-23",
     "categoria": "Operazioni",
-    "titolo": "Allarme cocaina: la mappa mondiale dei prezzi (record Arabia) e gli affari della mafia - 24plus.ilsole24ore.com",
+    "titolo": "Allarme cocaina: la mappa mondiale dei prezzi (record Arabia) e gli affari della mafia - Il Sole 24 ORE",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - Il Sole 24 Ore.",
@@ -3654,7 +3702,7 @@
   {
     "data": "2023-03-21",
     "categoria": "Operazioni",
-    "titolo": "I familiari delle vittime di mafia a Milano: “Vogliamo verità e giustizia per madri, padri e figli” - La Stampa",
+    "titolo": "I familiari delle vittime di mafia a Milano: “Vogliamo verità e giustizia per madri, padri e figli” - lastampa.it",
     "sintesi": "Milano, Lombardia. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3834,7 +3882,7 @@
   {
     "data": "2023-02-02",
     "categoria": "Operazioni",
-    "titolo": "La metamorfosi del killer della ‘ndrangheta Edgardo Greco diventato pizzaiolo: così è sfuggito all’arresto pe… - La Stampa",
+    "titolo": "La metamorfosi del killer della ‘ndrangheta Edgardo Greco diventato pizzaiolo: così è sfuggito all’arresto pe… - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3918,7 +3966,7 @@
   {
     "data": "2022-11-22",
     "categoria": "Operazioni",
-    "titolo": "'Ndrangheta, maxi operazione a Rho contro il clan Bandiera: 49 arresti - La Stampa",
+    "titolo": "'Ndrangheta, maxi operazione a Rho contro il clan Bandiera: 49 arresti - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -3938,6 +3986,18 @@
     ],
     "fonte": "Google News - Il Messaggero",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU0pRaURfR3J1OHNZZ0NpczZSTnpuaFZkTktrYlF1Nm1PQ0x4bmRNWmtULWNMenFmZ0hNYkdZelhhdER2d1FTOHpuUHkydjZQS3JqODNZaEJSWkFpa2FSanF5d2dRQnRFTXIzRDIzTWZ5Sm5MRUN4ZDZBYzVCSzV0VkZNNWxLNk9IT2ZpRlVma2Vsd3hnUzB0Q0hHSXJ6Y19HdzB1bFQzcUxSNk9qX0lKU0NBUE1XQU1Bd095cGN3Z2NGeXdvX0swaNIBzgFBVV95cUxPV3I4TF94dVR0R0FDTnVEUEtzMDdmX3JydFUxcU14V1dvUjZYanJwdTlIajNSQUdsNUFNd3BYN1FOa3B5ZmZRTjMxN0J6ZzZUUmlMeE9OZG44ODdPa2xYbEVMTFpGNnM2Vy1IaUZXSkd5dlAwV0xFYWgzYmotY19pRkFqcFRoYjFmNEZjRTBzSENkTmRzdzk1TkhvR0lub2xtNDNfSmJQWUtnQ0tqRE1YamZQamJjWXJ0Z0tQczh1M3lWSDZqWVRQSGs3RXdNZw?oc=5"
+  },
+  {
+    "data": "2022-11-01",
+    "categoria": "Operazioni",
+    "titolo": "Mafia, condanne a 6 secoli di carcere per i clan dei Nebrodi - lastampa.it",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQllkTFZkZWptNXBoYXZUSHJrSkJrTWF1bGZVRDZ3d3lWSi1LMF9VV1FjS3Yzd3hMckdfREYwR0FPdG41ZWVSRC16YzRCTnBETFN3aXdrR1JmTkwxWjZTQkFZdWdiLWlCTFd1T3lIaEVGUXNOT2o1elVxaGhwaldycUxBbEd4ejBpTV9nUUhiWVI4UmxiSkIwUUUtdE5paEZsOS1HS0FGQ0FrZFpKZ29IMmxUZnFhWXfSAbwBQVVfeXFMTzFrYTRpM21zdXFKQnphSXBRNGhNazE4azVDVWpvZ2pNOFA2UkVVR2NsT1d1blBOVVB2UktPMWx1d2NZaDZGS3I3eFRIQ09ENkJtcXRveXgyazY5ZnVQSTRDY0V3clJOZ2pyX0t5T1dyOEk0NnRyM09lV3p3dUNoTzk2SjVPbzJZOWE1YjB1QkV5Zzlza1R6TmxCMk1iTmNRUEkyZXZTLWNoR2N4SXdRYkxVdkctSTZablR2ZVA?oc=5"
   },
   {
     "data": "2022-10-20",
@@ -3978,7 +4038,7 @@
   {
     "data": "2022-10-02",
     "categoria": "Operazioni",
-    "titolo": "Mafia sempre più di frontiera - La Stampa",
+    "titolo": "Mafia sempre più di frontiera - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -4082,6 +4142,18 @@
     ],
     "fonte": "Google News - Il Sole 24 Ore",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXpMVGM2cUc1N3hYQXJrOHhGQVJPZ2RRZ2RuVVJ6Si1kQlhCX1NyRkhNWU9MLW16NHcwcTFjLWJWZUlzZ3hkdXhyRENRRzZCSGJ4OFB5aS00X1ljS0pCbDBCU1pzN0ZfN1BudmZ6MUJCZ0dEWm9fbEpESmQtLVQ1b1BEc21jNXlicWxmeXFiNG1MY0lwOGExa0JxaGpQZl9QbHI4dlBlVk9KVTJKUExvc3haMHhKNVpyY0E?oc=5"
+  },
+  {
+    "data": "2022-04-20",
+    "categoria": "Operazioni",
+    "titolo": "Camorra, maxi blitz contro il clan Moccia: nei pizzini tutti gli affari e i segreti del clan - lastampa.it",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnluMlVTLTFGay1DbzJ0QWtLTlpBS0hobkV4dmRrXzFxOUlmNFcwa2t4NFBnQi1iaDdobXgwVXMxQjByYktUXzhDeWFmcTVWM3JZWExVSnlmUTdHeWZDOS0xMVBNd1FscUc3TVF3eW4zMzdTa0ZpbnpOSGZiR3p0QWRiR3U3NC1nQXBtVUJzajRMY2hSdkxjekFPSWtYdk1FTWZfSmVaSDVzci1BQ0dfUmVLcm92NF9WbGVOZ3BMQVhLZ9IBxwFBVV95cUxNR3B3WElEWWVSeDRPYVNSclU2R2Z4OGk4c1BaMEFXYXNQLXhITVh5alFmclhMSkF6cnZSSktKRFdlLW9Ia2hlNGpRZW5udFFoQXhiQWRXZ1lnRGVhYWp4MTZpVHR5eExUQWloc1IxejBWdC13enJ5V1hFUlVZbkhUVGJlQjRrZjBwVDhpSDBoS2lWaXpYZXFqYVpXSjAzQ3V3MjJvcHpzN1o1eU5tanQtZ0w5Q09feDF2dks3dW9SNzAxTFFHcDNj?oc=5"
   },
   {
     "data": "2022-03-28",
@@ -4190,6 +4262,18 @@
     ],
     "fonte": "Google News - Il Messaggero",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWZ2T054NmpCTGgwUWs2b2xQcUM1OV9XYkVHdkZvZndDZnd2OHM5cUx6MnQ5MnZUVUstSW92NjlhRVJ0M0VBUUhkZC1WYnp6cFh1ZThVSzAzNzlwcHM0ZUtYUTRNYS1xbl9talNlS3VSRE5kbnNncGhVemlJRDZNTUJkZmhuVVZp0gGOAUFVX3lxTE0wUHhyUGNNTDc4eTZDeXRGRjhSTmFsTmV0aW1MMVpCRHhaTWN5WlFXWkNxRWNoY1VXbXUtUXhoUk9JdEE2eG84dVVMRzJRQ2xxSV9GTnloczZqOVA0WF9WeWc1cGJmbTVvaHJwSDN0eFhFU3pORFpoSmFGMW5JbWlvRnR3VzFFYm8ydVdUZXc?oc=5"
+  },
+  {
+    "data": "2021-11-16",
+    "categoria": "Operazioni",
+    "titolo": "Maxi blitz della Polizia contro la 'Ndrangheta, eseguite oltre cento misure cautelari - lastampa.it",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdk9MWFZqVFp1aXpOam5HUDhNdnA3RDNoSjg5eGRUN1diTnJpQ3YzbEF2TGJhUi1QZm1ZOEVaY2F6WC1oSDA4ZG05UHIyVnpyTmg2a1lYZ0ItQ0U0V2RVUWNUX3M5MzJzdk1pcWl3UFFXaC1ndzRRanZsQ1NLM0JOZmUydDh5QkZlUFVzWTVFdWdaV1dfRktyMndfWUhvRUpod0RHVmduem4wVVpjVlkzcEppQ3pmYnVac200dnItZzJqNk1hTzdzX0pMQXFyZGtJUmdKWHhZMWtRYmvSAeABQVVfeXFMTy1MX0NGb0gxNVBLMVdCdzJfRXRETURaaE9scTBIZUNrREx2NGdJYnZQbHR3dllRZDJZeFZXck1JLWMyUnRaQ2dSLThHR3MwbExJMDltaHgzbFoxWHBHZ2VDWTNGSzhMejlEZTRaVGpHOGJLdmJQRXdseElPNGVXN0tKdVNNQk9odlNodUZWaWlMcGlsanRXQldHd3lQSnFDMzM4RFJ1c1A0ZDFxVzZWYjJLbFZia3dla0NRMUxfVWpIWjMwbzFHdFJMUG1zTEx6Ym96TVFQUVpEb3JweUNRYlk?oc=5"
   },
   {
     "data": "2021-11-16",
@@ -4446,7 +4530,7 @@
   {
     "data": "2021-05-26",
     "categoria": "Operazioni",
-    "titolo": "‘Ndrangheta a Bra, sei rinvii a giudizio - La Stampa",
+    "titolo": "‘Ndrangheta a Bra, sei rinvii a giudizio - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -4482,7 +4566,7 @@
   {
     "data": "2021-05-05",
     "categoria": "Operazioni",
-    "titolo": "Operazione platinum: smantellata la rete europea della 'ndrangheta - La Stampa",
+    "titolo": "Operazione platinum: smantellata la rete europea della 'ndrangheta - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -4506,7 +4590,7 @@
   {
     "data": "2021-03-26",
     "categoria": "Operazioni",
-    "titolo": "Mafia, colpo ai clan di Palermo: 15 misure cautelari - La Stampa",
+    "titolo": "Mafia, colpo ai clan di Palermo: 15 misure cautelari - lastampa.it",
     "sintesi": "Palermo, Sicilia. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -4638,7 +4722,7 @@
   {
     "data": "2020-10-14",
     "categoria": "Operazioni",
-    "titolo": "Mafia: 23 arresti nel Tarantino, sgominato clan a Manduria - La Stampa",
+    "titolo": "Mafia: 23 arresti nel Tarantino, sgominato clan a Manduria - lastampa.it",
     "sintesi": "Manduria, Puglia. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -4734,7 +4818,7 @@
   {
     "data": "2020-07-07",
     "categoria": "Operazioni",
-    "titolo": "Maxi blitz contro il clan camorristico dei Senese: 28 arresti per estorsione, usura e riciclaggio - La Stampa",
+    "titolo": "Maxi blitz contro il clan camorristico dei Senese: 28 arresti per estorsione, usura e riciclaggio - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -4758,7 +4842,7 @@
   {
     "data": "2020-07-06",
     "categoria": "Operazioni",
-    "titolo": "‘Ndrangheta: 17 arresti e confische contro boss - La Stampa",
+    "titolo": "‘Ndrangheta: 17 arresti e confische contro boss - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -4818,7 +4902,7 @@
   {
     "data": "2020-02-25",
     "categoria": "Operazioni",
-    "titolo": "Arrestato a Castelletto Ticino l’armiere della ’ndrangheta, si riforniva in Piemonte e Lombardia - La Stampa",
+    "titolo": "Arrestato a Castelletto Ticino l’armiere della ’ndrangheta, si riforniva in Piemonte e Lombardia - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -4926,7 +5010,7 @@
   {
     "data": "2019-12-19",
     "categoria": "Operazioni",
-    "titolo": "‘Ndrangheta, maxi blitz con oltre 300 arresti. Fermato ex parlamentare di Forza Italia - La Stampa",
+    "titolo": "‘Ndrangheta, maxi blitz con oltre 300 arresti. Fermato ex parlamentare di Forza Italia - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -4998,7 +5082,7 @@
   {
     "data": "2019-10-13",
     "categoria": "Operazioni",
-    "titolo": "Mafia, arrestati 31 appartenenti a Cosa Nostra di Catania - La Stampa",
+    "titolo": "Mafia, arrestati 31 appartenenti a Cosa Nostra di Catania - lastampa.it",
     "sintesi": "Catania, Sicilia. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5010,7 +5094,7 @@
   {
     "data": "2019-09-27",
     "categoria": "Operazioni",
-    "titolo": "Blitz antimafia tra Brescia e la Sicilia, settanta arresti - La Stampa",
+    "titolo": "Blitz antimafia tra Brescia e la Sicilia, settanta arresti - lastampa.it",
     "sintesi": "Brescia, Lombardia. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5092,6 +5176,18 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNFZxeUgtbkJnWEp0U3k3bUJhM2RoMGRkQy00ZHp2ek53MHE5U0J0MFM4TnBTS0dQNnZFRTVSeWE1RnlKOEtFTmwtUzdSZ0ZEV0lvbnA0UG94UnkyZzd6cGxTWTN5VGhUbFp5aVl3VXVjbmJnTzdFM1l5N2FUbm9tU09XOW1IczdGZ0FfQVd6MNIBjgFBVV95cUxPdGl6ZnBEVVJ3Y18yajRNWkdKUjdiZ1ZjWVNQb1FBVGpySmFLejhPV043OWpvSnJQa1FVSTNSZ3l6ZEVpRWpwM1F1VTUyT1F6clNmNnJnRG9JN2tQXzFta0xseXB4bEtoMTN0alVneDE3YURhMTd6U1VXRFZkdF8xMlFSOGZLdlhmQnZKb3pB?oc=5"
   },
   {
+    "data": "2019-07-18",
+    "categoria": "Operazioni",
+    "titolo": "Mafia, maxi blitz fra Palermo e New York: 19 arresti. In manette anche il sindaco di Torretta - lastampa.it",
+    "sintesi": "Palermo, Sicilia. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX1hUb2stTzdQUllLcnJtcWNCLVJ6bEdrZjBiS25sTnB4Skk4ZnpXSTZtcmhnZE12QktGY2V2WURkQm42YzVHNmJJWURQbjdRamlBM1VsMWhLakRIWkxCa0sxUFVJc0pqV1lkQ2poYW1VbXRlZ0ttSElOendwNE9EX29BVUpCR2VNYm9tWkRxZm5FOUU0ZzZOcmk4a1NockREaXo2cWF1NXNBWFNCdkdCdWcwemRyU0RxRzBWMGlnRWhFYmFneVVBQzZVTzU4Uk9MTmxrNDVveHJmemwwYWdaVWpoOA?oc=5"
+  },
+  {
     "data": "2019-07-06",
     "categoria": "Operazioni",
     "titolo": "Mafia, il salto di qualità di quella autoctona e gli investimenti di camorra e 'ndrangheta in provincia di Latina - ilmessaggero.it",
@@ -5166,7 +5262,7 @@
   {
     "data": "2019-03-18",
     "categoria": "Operazioni",
-    "titolo": "Un patto tra ’ndrangheta e mafia per spartirsi Carmagnola e il Cuneese - La Stampa",
+    "titolo": "Un patto tra ’ndrangheta e mafia per spartirsi Carmagnola e il Cuneese - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5178,7 +5274,7 @@
   {
     "data": "2019-03-07",
     "categoria": "Operazioni",
-    "titolo": "Camorra e politica locale: 5 arresti tra Roma e Frosinone - La Stampa",
+    "titolo": "Camorra e politica locale: 5 arresti tra Roma e Frosinone - lastampa.it",
     "sintesi": "Roma, Lazio. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5214,7 +5310,7 @@
   {
     "data": "2019-01-11",
     "categoria": "Operazioni",
-    "titolo": "Blitz contro la ’ndrangheta: dodici arresti dall’Ossola alla Calabria - La Stampa",
+    "titolo": "Blitz contro la ’ndrangheta: dodici arresti dall’Ossola alla Calabria - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5238,7 +5334,7 @@
   {
     "data": "2018-10-10",
     "categoria": "Operazioni",
-    "titolo": "’Ndrangheta, condannato a 16 anni Barbaro, il “capo dei capi” in Lombardia - La Stampa",
+    "titolo": "’Ndrangheta, condannato a 16 anni Barbaro, il “capo dei capi” in Lombardia - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5284,6 +5380,18 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2QwQWhlY2cyUWw4bGQwdHhKdUFfal90UUVDLWtmZUxndjNzQU12MlUzVkw5QUlFZUEtTDNycFRfbFg4a0NDMk40aXh3Y25Bd3IySXFPOUhQTEhxWHN6bW1ELWJLelNUVE0xN1hsLXNScTdIalpiNUZxQnRJWUEyckhELTd1aGpxVG0xeG5IYmZWN1E4NmpaTWk1Y3ZDUW5acW5qSTBCbVE4NHMzazJJaEI1NXlQdUhWaXFCeFhTMWVIenZ0SFBDYXBOUWFfUU0?oc=5"
   },
   {
+    "data": "2018-04-20",
+    "categoria": "Operazioni",
+    "titolo": "`Ndrangheta, la Dia sequestra a Reggio Calabria beni per 22 milioni a un presunto affiliato - lastampa.it",
+    "sintesi": "Reggio Calabria, Calabria. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNakZGckhpXzZLaEVVZmRRdU5Nc1Axc0VlZ1poS2NSWXExVW1JWjhWNkVKbl9kS0RHai1XQzlQNWIzS29icHFaT1oyZHZoYjFhSW1ELXZGX1E1ek1taklSTXN2M3lYUmx4TUtFemlKLVNTRUd5ZWo0bDQ2UWNTWlcyZktUc19ELTZEejZLaFhzemVFMTRjUDU5TDhnZ3Rfd3V4QmtiX0JFUHI0VG1fTnU5OGVXSTZoeUFZZDJKMElpcFRHVXdvWU1wb3B0TjJhNnNWWTRuYzJ4ZnhhTnNGWWVDLWdR?oc=5"
+  },
+  {
     "data": "2018-04-19",
     "categoria": "Operazioni",
     "titolo": "Blitz contro il clan Capriati, 21 arresti a Bari - lastampa.it",
@@ -5306,6 +5414,18 @@
     ],
     "fonte": "Google News - La Stampa",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjlEVXpINlQ3aUdKYkEwd2dRc21HZUhHRWcwbElHUWxkd1h6MWFXNFpaQlM5aXlIMVhPd3M1d095UTBUalN3VlZsdXY0Nm5GaFRxbDZUZXBwUGdXXzVENGdRRWtFMVQ1QzZSTHczLWpvMFdmRTY3SXl3di1yeXRXRU1pczZjWmRJWmQwdVlQaTNBM1hoNGx3OWZKY1dXQQ?oc=5"
+  },
+  {
+    "data": "2018-02-23",
+    "categoria": "Operazioni",
+    "titolo": "Ogni dieci giorni l’Antimafia a Torino “stoppa” una ditta a rischio di infiltrazione criminale - lastampa.it",
+    "sintesi": "Torino, Piemonte. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFlka3A4c0lMV1FKZmFEUWdwbjFVYWdTVVFIV01KUFZ6QTFFLXphXzZsa3RhSzM3S09fb3E4ZlQycnliel9ldTA0b04yRlFxWGdsd0tNb2c0M2lra3JKSVRlNF9yMzNqWWEyVHMxd0dDTkhZUlNkRURTTjVMM2Q0WklobVJTSTRscC1ETkthNEZ1ZFd6bFRKM0IxNHh3TURxSGpZUXJrQzQ2aDlQNkFacUJtcFFZMzBVOXJRY0ZiQjZzSmF5Z3I0ajJING83c0ZrZ1dkYmVoRVV5QzNjOWJsbGVscDNKUQ?oc=5"
   },
   {
     "data": "2018-02-23",
@@ -5502,7 +5622,7 @@
   {
     "data": "2017-05-20",
     "categoria": "Operazioni",
-    "titolo": "Il candidato reggino M5S arrestato per ’ndrangheta - La Stampa",
+    "titolo": "Il candidato reggino M5S arrestato per ’ndrangheta - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5538,7 +5658,7 @@
   {
     "data": "2017-03-01",
     "categoria": "Operazioni",
-    "titolo": "Il senso di Montalbano per la mafia invisibile - La Stampa",
+    "titolo": "Il senso di Montalbano per la mafia invisibile - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5586,7 +5706,7 @@
   {
     "data": "2016-11-20",
     "categoria": "Operazioni",
-    "titolo": "La ’ndrangheta controllava locali e night in provincia: ecco gli affari della famiglia Raso - La Stampa",
+    "titolo": "La ’ndrangheta controllava locali e night in provincia: ecco gli affari della famiglia Raso - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5598,7 +5718,7 @@
   {
     "data": "2016-10-06",
     "categoria": "Operazioni",
-    "titolo": "Ndrangheta: finita la latitanza del boss Pelle - La Stampa",
+    "titolo": "Ndrangheta: finita la latitanza del boss Pelle - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5778,7 +5898,7 @@
   {
     "data": "2015-12-15",
     "categoria": "Operazioni",
-    "titolo": "Blitz dei carabinieri contro la ’Ndrangheta: 37 arresti a Reggio Calabria - La Stampa",
+    "titolo": "Blitz dei carabinieri contro la ’Ndrangheta: 37 arresti a Reggio Calabria - lastampa.it",
     "sintesi": "Reggio Calabria, Calabria. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5826,7 +5946,7 @@
   {
     "data": "2015-07-14",
     "categoria": "Operazioni",
-    "titolo": "“Colluso con la camorra”, chiesto l’arresto del deputato di Forza Italia Sarro - La Stampa",
+    "titolo": "“Colluso con la camorra”, chiesto l’arresto del deputato di Forza Italia Sarro - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5838,7 +5958,7 @@
   {
     "data": "2015-06-17",
     "categoria": "Operazioni",
-    "titolo": "Blitz contro i velieri della cocaina, dalla Colombia alla Spagna con tonnellate di droga a bordo - La Stampa",
+    "titolo": "Blitz contro i velieri della cocaina, dalla Colombia alla Spagna con tonnellate di droga a bordo - lastampa.it",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - La Stampa.",
@@ -5882,125 +6002,5 @@
     ],
     "fonte": "Google News - La Stampa",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbVRvTjlobl9EMjVFeG1zV1dhSmllQURuSlEyT2dKU0k3RGd4RE9BdHRpbFo1Q3FpQTdOZEdIY0tCbkVYUWd2blFlS241YlhHdlFRbFE2OE80RXpwbWNUVFNqTVljbWd5S3lfRXBETmlNZlpjZ3czcmM3bl9ZeEU2VDhhN0VfQy1yYlRxSVJYeGlrZWNfeGNNdExkN2M1YzJZU3RmWWFuR0JrNldrbWQzdTdKbS1ueEFPYXBVWDhOdTRvY1o5S2pJYVdkbGN5LUR0SVhsdWQzUjdCejdJNmNkR0J4RU4yeTg?oc=5"
-  },
-  {
-    "data": "2015-01-17",
-    "categoria": "Operazioni",
-    "titolo": "Al processo Minotauro parla l’ex affiliato della ’ndrangheta ora collaboratore di giustizia - La Stampa",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - La Stampa.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - La Stampa",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVDBKc2E0Q3o0cW1LV0NocE55aG5iTGZMeGRELU1wVWJtTGdQQWJEd2JYSEdzZjkxX0UzaHNjaENYSWVPQjBFTFhpcDV0a0d6Q3hPVk1DNEs2ekFWTHhRcHZPY1B0SHRCbll1d25TNVpldDBDbTg4QjhPVkc0eEt0dnpySF9iallIYXpxZE1EUHRveU5iY2RrT0hiUS14bnVMQjc5WGhEaG9taS1UWW45ZTM5Y1E2MHpvUlM0QkpRYXExUGZSMmxFV0xVNy1jVC1WSkppclBTWklYRFJwVXBiV0ZR?oc=5"
-  },
-  {
-    "data": "2015-01-12",
-    "categoria": "Operazioni",
-    "titolo": "'Ndrangheta, operazione Dda a Roma: 3 arresti e sequestri per oltre 100 milioni di euro - ilmessaggero.it",
-    "sintesi": "Roma, Lazio. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - Il Messaggero.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - Il Messaggero",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXllMXlmVG5BNHRlZm05c1RhM0Ywdi16N3pGWUdKTkZMZTl3SmJ6bE9XMm5VRlJESTA1V2RvRkJObXUyUF9zU1Z5a195WU5oOUVFV0ZKM0laZFdickpQdjRGdEJhcUFGSEZpd1F6VFNjN0RjWHpzS3NtbWVhM2U3RjZTb2hFb1F4SENPaXRiX3BtMzdSXzdLVW9KbTB1MHBONkhjMVRZeE5TS01CZTFfOXRzWndKZ9IBsAFBVV95cUxNOURzcFZKd003TXpMNWhmdWRkUFZfSTVLOFM2MGRKS2x2TEp0cmtEeURRVTFJcXBYY0JJS0x2LV9jNkRWOTliTXVQdDJkQzY5UktlTk1UVGpyWG9VOENacXBDajF0TGZTZDNlX2E1MThra1o4MFZKVTR3b1U3QU9pVGRlZ0NkVk5xNExIRkFFdElRamc1MEZZTnFodmlweFMteXppQlhoSTk2WVBqQVQwdg?oc=5"
-  },
-  {
-    "data": "2014-12-19",
-    "categoria": "Operazioni",
-    "titolo": "Alfano: inchiesta di Roma fondata, la mafia non è club di Corleone - ilsole24ore.com",
-    "sintesi": "Roma, Lazio. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - Il Sole 24 Ore.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - Il Sole 24 Ore",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSnJkY0RwSktHNUducDZ3Q24zM0pJcl9GSllMWnVXWGNWRHByWkY4a0JRTlRaMVF1QnpUeXVSWC1LR0NNaTV0TlNET0sxRHRxeWpOUHBBMWhydF9xYjBkaDB3ME93U2ZsTmlHLUlQemUzTjhLVVI0RWZ5YkZURzlfdm9EUy16RXlWaG42eXNxMUdfS0g5NWh3NmVxZzNiTjNScFFkeWxKNmQ0ZXIwVDkyVC1senJaVEZkVUZtaTRwMllMbUhSaUtsTHpTS2Q?oc=5"
-  },
-  {
-    "data": "2014-12-15",
-    "categoria": "Operazioni",
-    "titolo": "Mafia capitale, maxi truffa gasolio da 7 milioni alla Marina Militare - Il Sole 24 ORE",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - Il Sole 24 Ore.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - Il Sole 24 Ore",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMFdBUXFCM1kwTlVMdDEzRUdacXhDdVZ0RDJrYklQZ19uUm9jOTFPRTNQS285T01zQmt5YkR3NXhTclhWR05oN3B3U3N4Mm9mVFZXRHhNeFQ4ak5WQkE3RHQweUg2YVViOWNEZXdmb3VHWUVXQ1hDbG5DcGdQeG9melJmWVJZdmktcjltTVpMYVhyQUZsNmU4ME5Td1ZNZTFoNXpNRkdOOE9sdnhtV296STJ2S2ZPc3V0S3Z6cm1XbXIxbDJjdjhaTVdvNWt1UXdfa01yT3M2ZXpCak9OU0lnV3Jvdw?oc=5"
-  },
-  {
-    "data": "2014-12-13",
-    "categoria": "Operazioni",
-    "titolo": "Mafia Capitale, Carminati trasferito nel carcere di Tolmezzo per incompatibilità ambientale - La Stampa",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - La Stampa.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - La Stampa",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3RzbkExbnphZUI3cGI4Qy1mV3lUaExhUDBkSUFIR1BKOV82T0FMS2xwRUtLdGdnTzRXVE45eUxHa08tcGNCTklKVk03THZJeFFyNVYyRHR6SXM4V0tTUXhBQkZmUFN0MTRRUTB0UjUxTDhzN2NEdWhCUXRHbURURVFXUWhrTzRVVWFPVi1JYXktZmJCUGxuZzJXZnlLQkU3cVpTdFpxTWlOeEtJQ19mLXZCNDF6a1FyRU9rdThXQzdydGYzWmk5MDB2N3NLYlVQX0lRQ1pNNlZjd0pDemNKT2tfbw?oc=5"
-  },
-  {
-    "data": "2014-12-12",
-    "categoria": "Operazioni",
-    "titolo": "Mafia Capitale, spuntano appalti per la ciclabili - La Stampa",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - La Stampa.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - La Stampa",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTZibGs4a3VhaTE0WDJ2S3VGQ0RjUUstbmxXNXliNThkZ3N1RWt2MTNsVk85YWJHdmNxSXRSRDZTZXR2elJwTjEwRGx4c21ObUVCYUszTmlJMm9lbHFHRUVaNXFRY3ZFcGVQRE52RUJmUVRud3NhaWljZUxfcDAtWnFMWWJzNmdEN1dBdW9va2Iwdk1PM3RwMndoTklkOVVqTXdwTEUyU1JPUWxF?oc=5"
-  },
-  {
-    "data": "2014-12-03",
-    "categoria": "Operazioni",
-    "titolo": "«Mafia capitale» , 37 arresti. Indagato l’ex sindaco Alemanno - ilsole24ore.com",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - Il Sole 24 Ore.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - Il Sole 24 Ore",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVVFaGVueVkzR0dkTExiVE1ZWUgtMEhpWnFEZVlTaVZNOVdfQkdxWWoxR2hqU3BJcVVPZXYycWJ2V3dfd3FLaEZGRVRMNTAxZ0wxR3hkQ1VVeHlFVEx0YzkyajROTXd4UV9aQ05Gelp0aUp6TTAwc01tYW1NYWtldWlUMndBMW9wTm45NWtGemhBMDRXb0o5T0ZiUVZTS0hVejlSdmdkZ0RZUzZNOGFteU12cTZJdw?oc=5"
-  },
-  {
-    "data": "2014-11-27",
-    "categoria": "Operazioni",
-    "titolo": "Oltre mille anni di carcere per la ’ndrangheta in Piemonte - La Stampa",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - La Stampa.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - La Stampa",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnZBbnIwQUthTzFYRi0weDBpVFNKb0g2d2RmM19TVDhUZHhhWWJBVFpzME1jcTFJTFRBU0JsMjlnQkNsc040VjRoYVNlaWgxQTdqRXRwY2pfWXJrS1o2cGhrOG95V205NGhvR2hSMUtGc1U0YmpxMXhabmNnZkhCZlRFVXRfRGJmTFhIR3hsa0c1MHhhVmVZNmQ4VnR2akdIRzlYTlAwLXlWcU1FZExJMlNFeTFlenc?oc=5"
-  },
-  {
-    "data": "2014-11-18",
-    "categoria": "Operazioni",
-    "titolo": "’Ndrangheta: 38 arresti tra Milano, Como e Lecco - Il Sole 24 ORE",
-    "sintesi": "Milano, Lombardia. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - Il Sole 24 Ore.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - Il Sole 24 Ore",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0h6amtBMGQ0a3JwV0l0SzMyaEJfbm8xeWczWlgybWVFMFFjbzB1LTRoRHp1SlVTTl9lVm0tbGFMMVBWMG9QOTdJZkhWMVJibGNFNGJ5Sy16U2tqRmYxLVhCT1hMMzd2SkRubVQ3YUtZemRRSWFiQzV1clA4b0wyaUw5aXFsd0Q1QXRCOVBDZ2ZmRDVibnNkcldDYjdXNTlBN01UWHJvLXJ5Q0liajlJeWpSQjdZV2hjREV3bUlRbXRtWEtYSHc?oc=5"
-  },
-  {
-    "data": "2014-11-18",
-    "categoria": "Operazioni",
-    "titolo": "Blitz anti-’ndrangheta in Lombardia: 38 arresti - lastampa.it",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - La Stampa.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - La Stampa",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQlBKTjdxVDlQRmlOa1FtVkVuZEtuSDV1OUdCcUc4ZWNJLUFwdTZyMmh4U0pTeWw4MFhzd0lwa2d3bXdLdjlVT0djT1dza3hWVVRkaGVDeURBM0JsODVNNnptcUVjekpzSDdidlgwOWg4R0pISWF1UThhNVZ2OXNGZkVGdmtSWDZ4a0pzU09qTWxiNk1NMGRoQW5zN1VZOWxRUnlZZXZzWFU?oc=5"
   }
 ]
