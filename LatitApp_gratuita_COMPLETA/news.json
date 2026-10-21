@@ -2,8 +2,8 @@
   {
     "data": "2026-10-20",
     "categoria": "Operazioni",
-    "titolo": "Scampia, agguato di camorra in serata: ucciso Alessandro Uccello mentre rientrava in carcere - Corriere Del Mezzogiorno",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "titolo": "Scampia, agguato di camorra in serata: ucciso Alessandro Uccello mentre rientrava in carcere - Corriere Napoli",
+    "sintesi": "Napoli, Campania. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - Corriere della Sera.",
       "Leggi l'articolo completo alla fonte originale."
@@ -14,7 +14,7 @@
   {
     "data": "2026-10-20",
     "categoria": "Operazioni",
-    "titolo": "I boss di sei clan gestivano il traffico di droga dal carcere con i telefonini, la Dda di Napoli fa scattare nove arresti - Corriere Del Mezzogiorno",
+    "titolo": "I boss di sei clan gestivano il traffico di droga dal carcere con i telefonini, la Dda di Napoli fa scattare nove arresti - Corriere Napoli",
     "sintesi": "Napoli, Campania. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
       "Fonte: Google News - Corriere della Sera.",
@@ -313,18 +313,6 @@
   },
   {
     "data": "2026-10-18",
-    "categoria": "Latitanti",
-    "titolo": "Ventimiglia, la polizia di frontiera arresta un latitante condannato a 7 anni - La Stampa",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - La Stampa.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - La Stampa",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZkNIVXRpSjF4cmdYNlFhM1FRU1BDM0NGMFcySjY5VUxMaXZUd1VDRkw0TV9KdThzWVg3MFlpZVJnU3VkQ2FyOF9rb25ZblRxZVotSGk0a3hwVWZ0ZS1tS0N6TXhfOWN3aGdUNFloNGFuVUdqUTFES1RmRXZzRWxpeHZGSjJ4ZWxNSmVIWFdhSjRuZE1BRTE1Q2hZV1c4QS1lX2hTX2FOSzNYLTlZQTRON0w4TWY3dlU4VFYySUNPb2gtNnpMMDltY0pQaFNJTGUwd2RHbWVQMUIxUQ?oc=5"
-  },
-  {
-    "data": "2026-10-18",
     "categoria": "Operazioni",
     "titolo": "Imperia: blitz blocca la protesta non autorizzata - La Stampa",
     "sintesi": "Imperia, Liguria. Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
@@ -358,6 +346,18 @@
     ],
     "fonte": "Google News - La Stampa",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVk14akVrYTE1V29admQxV2kwY2JxTHVmSzRYNXRtak9PT0k2RXBBMlJrU0pWeXh1VFJ5REQtckI2R2hrYy1LUWM2Wm55UkdDaEc3RnlpRkNrUHRUUDhXNFBPdU5kSVYwNGVmWk55N0tlUFRDcGtJeGVScGxPU0twOVQxN0JhZm5iZ0VWMVhWbEFjaS1OaXhQMEY3bGVDTFB4eVlfX29PaUNMbW9rNWVGdDJxYlZ0NmZyQ0l6RGQyU0dHUFB1Rk9vcVdhSGxjYTdPc3huQ0poRWE3cG0zTndQX9IB5gFBVV95cUxQWmJGRThLMVVNZUNRTTQ5c1NZZkp5TkVyY1BGUHV1VU5Hd0RrOFFueGNXOVdWekhLVzBLbnRvbmRQVWxrdzNoclh4WlpKUjA1WW0wYzdTZmpPeTlHUjA2ZGtqWk1WSzZtcWFKV3ctdVpHb2ZlRmU3ZGFGbGFkMlFRekx4STJmY1hhbGJjbjdXZzVrMTdyV0IxTDY5Q2JSbnFRT2E5bTRiRE02RUptaS1vWXVsSHRvR0NwS1ZjUWVEMExsSDhzMnE3NW1KV2JDVzlKaHV6c1BiT3N6LTRoS0N6R2FZZDhLdw?oc=5"
+  },
+  {
+    "data": "2026-10-18",
+    "categoria": "Latitanti",
+    "titolo": "Ventimiglia, la polizia di frontiera arresta un latitante condannato a 7 anni - La Stampa",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZkNIVXRpSjF4cmdYNlFhM1FRU1BDM0NGMFcySjY5VUxMaXZUd1VDRkw0TV9KdThzWVg3MFlpZVJnU3VkQ2FyOF9rb25ZblRxZVotSGk0a3hwVWZ0ZS1tS0N6TXhfOWN3aGdUNFloNGFuVUdqUTFES1RmRXZzRWxpeHZGSjJ4ZWxNSmVIWFdhSjRuZE1BRTE1Q2hZV1c4QS1lX2hTX2FOSzNYLTlZQTRON0w4TWY3dlU4VFYySUNPb2gtNnpMMDltY0pQaFNJTGUwd2RHbWVQMUIxUQ?oc=5"
   },
   {
     "data": "2026-10-18",
@@ -566,18 +566,6 @@
   {
     "data": "2026-10-16",
     "categoria": "Operazioni",
-    "titolo": "Mafia e infiltrazioni della criminalità organizzata: a Aosta c’è l’Osservatorio sulla legalità - La Stampa",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - La Stampa.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - La Stampa",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzJMMUQwMlE0Vlgydnk0bTJVQXhUVXpMMGliOWw4TU50c2huS1U3bTFBZy1DUE1wdUVGUy1uSW16MmZFZjlrYWx2MU40NmVCWnktVTJ5NU9tQVFsQm9aRVR4Z1hrR0pIbENkM253eW5UcDFaRWxJM21RT1FjTmlsT09Iel9nYnlRQjdYdmg5VENIOUgwdFl3SENaVFJSWk5Sbks4c0h5WFBlZTRCbnpLOGxod1pPeENPV0JmUXV0OE4tWXcxN19KNVdvZkg1LUk2MEppNHRlS2xhdGtseXYwOFFkd9IB6AFBVV95cUxPTi1JTHNwMkNNa203ZmNjNkh6ZGhLTjFUMFgyR19Xc0ZwRWFaU1YtRUphaXVuOTE4TnFmVGVCWTU4RHZ1VU5YcndPOU9BUGpLVWV5VDNTUXFpX2tWTzR2VmNHeGhETEtxSlBPQ05MNlBEa1dTVVJCZHZONE05STBqRThZX0steVVHOFBncWJnWlJJcE1MWDdFYnBVTnBESkpQN0lJTnVJYklfM3NFenVKMU5Ld3hvREZoNktSYWJfRjhldUZOUURIdmRrZU5fOUhrOVNzS0tFTFlsMnV6VGludG5NenlxR3Va?oc=5"
-  },
-  {
-    "data": "2026-10-16",
-    "categoria": "Operazioni",
     "titolo": "Alfonso Sabella: “Giusto concedere permessi ai mafiosi, ma prima viene la sicurezza pubblica” - La Stampa",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
@@ -598,6 +586,18 @@
     ],
     "fonte": "Google News - La Stampa",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVA3MEtvNnBXNENXaWpfUzFlNUlZOW0ydnhlZ1l1NkVFR1AwbVd0SXFkd0d1dnJiTmFuemdIMFk3M1VBZksyX2lPOU8tWWx1dl9RNmVYdDJCcXQ2ZUFRU0FlU25YUGlNdHNnb1VrUWJMN2xtczdTRGJQWjBmUWlBdUVrcFlNOVNyMFN0cUhjd29UYS0xN3hURDNnc3J3VFI3RGtURkdqaEM0NVBoRnczVE8zaXBzWVFfUkc2WTFma01TU3dh0gHKAUFVX3lxTE92eC04ZEFoeEp1NEJ5eFF6YU9vb0g2R2dhLTdhdW5jMG5aU3ZkWlJOWVRzamhEWGZ1UXY2N0ltMmhGei05ZDEteXhnQ0sxZXMwcnU5WHEtcTBSNFRHMVhvenl5NTEwSTdyOGxxSm1Zc0dRODdaRXBoNW50OW85YXRoVlNtQVZDU0pKR0FTMUpLNEl5Y1BYUUI0aDg1UkgySXNYYUZyYUJMRUFra0Q0X2lqNk1EbE81U3oxQnI3WExQWUFnOWJUeVFhT3c?oc=5"
+  },
+  {
+    "data": "2026-10-16",
+    "categoria": "Operazioni",
+    "titolo": "Mafia e infiltrazioni della criminalità organizzata: a Aosta c’è l’Osservatorio sulla legalità - La Stampa",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzJMMUQwMlE0Vlgydnk0bTJVQXhUVXpMMGliOWw4TU50c2huS1U3bTFBZy1DUE1wdUVGUy1uSW16MmZFZjlrYWx2MU40NmVCWnktVTJ5NU9tQVFsQm9aRVR4Z1hrR0pIbENkM253eW5UcDFaRWxJM21RT1FjTmlsT09Iel9nYnlRQjdYdmg5VENIOUgwdFl3SENaVFJSWk5Sbks4c0h5WFBlZTRCbnpLOGxod1pPeENPV0JmUXV0OE4tWXcxN19KNVdvZkg1LUk2MEppNHRlS2xhdGtseXYwOFFkd9IB6AFBVV95cUxPTi1JTHNwMkNNa203ZmNjNkh6ZGhLTjFUMFgyR19Xc0ZwRWFaU1YtRUphaXVuOTE4TnFmVGVCWTU4RHZ1VU5YcndPOU9BUGpLVWV5VDNTUXFpX2tWTzR2VmNHeGhETEtxSlBPQ05MNlBEa1dTVVJCZHZONE05STBqRThZX0steVVHOFBncWJnWlJJcE1MWDdFYnBVTnBESkpQN0lJTnVJYklfM3NFenVKMU5Ld3hvREZoNktSYWJfRjhldUZOUURIdmRrZU5fOUhrOVNzS0tFTFlsMnV6VGludG5NenlxR3Va?oc=5"
   },
   {
     "data": "2026-10-16",
@@ -1238,18 +1238,6 @@
   {
     "data": "2026-10-12",
     "categoria": "Operazioni",
-    "titolo": "Un dormitorio nei magazzini del ristorante di sushi: blitz dei carabinieri a Burolo - La Stampa",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - La Stampa.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - La Stampa",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHVqcjN0aWs0T085QmkyWUFQTjlkVEdBT1VBZy1Db3I4aGI5Z18teWh0TG1CWnRRcVpUQzdHNEsxUTNUbFJIbUtiWkVjZmpYREhKR3YyZngyQ2haSTY2cUhkR2dUcUR0N0c5cThRN05zM0RoZjBidkFuUFhIaUptQXgyMGZvOG9fN3ZTcV9leUttcGtOVVpTeTV3bE44WjNQWGdBNVoxSHZtMEFaZUVDRtIBtgFBVV95cUxNdEZGeld1WTlNa0pTNmlFM253WHlCR1R3QUdvcTlLTm13QzN0dFlvZFpUZDdldDgyTGpGa1FEdE9oUmJwT19BTWFVcnFicGYxQ2xPWDVzcEZjQmJuSUNfeGxlZUZKWHgtWHlSTWpERlA0TDhaSDI3dkQzelU0dFFnQVFnbW45eDdZMlp1dTZBM0FWYU43MXlSdmdCaWhIdDRCWk0zN20xNUFHQjZtakY1Skw2RmI5Zw?oc=5"
-  },
-  {
-    "data": "2026-10-12",
-    "categoria": "Operazioni",
     "titolo": "Mafiosi, ergastolani e capi clan lasciano il carcere con i permessi - La Stampa",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
@@ -1270,6 +1258,18 @@
     ],
     "fonte": "Google News - La Stampa",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTUR0a0V1b3FuS05sUXlONHJaY19pbXI1X0ZvY3ByNVpBWWRSUzB5ZUk3MzBMN082WVFKNnJ3Y01JTkR3U0dlMjgya1R6ZzFUZmNwSHJSMGQtQ1NyMjhTRERJaE9hTWt1MWlLNG1qUkRUTDRzLXNkZHdmTV9KVExHVkVhQnBBSkFJdVVPNEUtQlU1Z05lVkJRWWhkSGg4aWR4STRJS3dzaC1CZWZHTGNYSnZrMEZNR3Y3ZW05MDZ6N0VjRlgyY2NUN2UxSm5WQmE3MzFETzF2NjFIYlnSAeABQVVfeXFMUGdCV0pLOEtWeXZidE9ZOUFEUWx4a1VkZ3J2cHNQZmpWSElqYzBHSnhLVkFjNmRmSFU3cHZMcGhmaE11QlQ1TXZhWGxDNktkaVRGa1Vzb0ZWcDlpa2w4alk0S1VhYlNnb0NROWRLQjIxSXlycHk0NGFrb3pjRGoycjNYQTFpc3R5NnZMT0FrMnNQTHA0Q2I4dmRhOEZZdUtVczRPS1EyaFNrU3RhSUw1UmItN080cUxuYkZ2UExnNjBjY211azFuM2FLRDkxZS1pZFk5RjdXM21yNF91Y3I5RFo?oc=5"
+  },
+  {
+    "data": "2026-10-12",
+    "categoria": "Operazioni",
+    "titolo": "Un dormitorio nei magazzini del ristorante di sushi: blitz dei carabinieri a Burolo - La Stampa",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - La Stampa.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - La Stampa",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHVqcjN0aWs0T085QmkyWUFQTjlkVEdBT1VBZy1Db3I4aGI5Z18teWh0TG1CWnRRcVpUQzdHNEsxUTNUbFJIbUtiWkVjZmpYREhKR3YyZngyQ2haSTY2cUhkR2dUcUR0N0c5cThRN05zM0RoZjBidkFuUFhIaUptQXgyMGZvOG9fN3ZTcV9leUttcGtOVVpTeTV3bE44WjNQWGdBNVoxSHZtMEFaZUVDRtIBtgFBVV95cUxNdEZGeld1WTlNa0pTNmlFM253WHlCR1R3QUdvcTlLTm13QzN0dFlvZFpUZDdldDgyTGpGa1FEdE9oUmJwT19BTWFVcnFicGYxQ2xPWDVzcEZjQmJuSUNfeGxlZUZKWHgtWHlSTWpERlA0TDhaSDI3dkQzelU0dFFnQVFnbW45eDdZMlp1dTZBM0FWYU43MXlSdmdCaWhIdDRCWk0zN20xNUFHQjZtakY1Skw2RmI5Zw?oc=5"
   },
   {
     "data": "2026-10-12",
@@ -5799,18 +5799,6 @@
   {
     "data": "2026-07-20",
     "categoria": "Operazioni",
-    "titolo": "Blitz contro la criminalità giovanile: 539 arresti e 954 denunciati - Il Sole 24 ORE",
-    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
-    "dettagli": [
-      "Fonte: Google News - Il Sole 24 Ore.",
-      "Leggi l'articolo completo alla fonte originale."
-    ],
-    "fonte": "Google News - Il Sole 24 Ore",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSll2NjF2MDlWcE53VEthSjVMaExKYlN4eURvLTA1ektPVW9sNTl2d1BDS1dWSU9QV1hUNEtYUGRXelBfdTVIVlBlN0lwYU5SdllwX2syN3NDVy1SSlJSVURobUxUTzFJUUtBaUdpd3drNFJDVWwyZ0syRC1oWV9RQk9oeFliZHFkclpMMmtjOGFFWkplU0M1QW5Ra2pKSDBILTNSZEVFMEdURkRtSlZrd3IzSHVXMThE?oc=5"
-  },
-  {
-    "data": "2026-07-20",
-    "categoria": "Operazioni",
     "titolo": "Maxi blitz contro la criminalità giovanile, 539 arresti. Sequestrate armi e 700 kg di droga - La Stampa",
     "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
     "dettagli": [
@@ -5819,6 +5807,18 @@
     ],
     "fonte": "Google News - La Stampa",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTQyTmUxYkgxZ0MxSGxwOGdKczJSNzJ6Q1poRG5LdmdGRG5mRGNNQ09hUC1URm1OdnM0Rmxtc21sUkphTHJiV3I3Y3dmSVlTWlJVbXA4cUZyZzRWbFoyanpYWXJzdTg3RkdZZDdGZ0hzWDgzUkVIamVrU1J1ZmZqVDNPRExiOXlPLU5oRnJqeGNrUHZSR2JZNVRrRkxoUU96TlFzREFVcUJrVDI3aXhIc0kwQkc1cDA5WkZ0THJxUDhqTk90WFHSAcsBQVVfeXFMTU8xVXN2bl8xWmN2Rm1VeHhZOGhOZ2l3VjhZYVFMU0NKY2s4R3FpWlJ4MmwzLTBBSW8zRE43QXZWb0JodUN5bWE3SVRaZ0o1eVFSUkhHOGRwOWJDckJZNW50UE1lZE1QVDVLTjltQzBsaDlLUnhYcFcydHRSLTRBbmlPOFNyMnJFNmRqZ0tJRTI3bXRnYkdmUmNYWkx0M1lFU2QwRWd0blFJel9OWmtnNjNXVmFlTHpuNXo5VU5KTkJNeGIwOXVVSmtGcU0?oc=5"
+  },
+  {
+    "data": "2026-07-20",
+    "categoria": "Operazioni",
+    "titolo": "Blitz contro la criminalità giovanile: 539 arresti e 954 denunciati - Il Sole 24 ORE",
+    "sintesi": "Aggiornamento su mafia, criminalità organizzata, arresti o operazioni.",
+    "dettagli": [
+      "Fonte: Google News - Il Sole 24 Ore.",
+      "Leggi l'articolo completo alla fonte originale."
+    ],
+    "fonte": "Google News - Il Sole 24 Ore",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSll2NjF2MDlWcE53VEthSjVMaExKYlN4eURvLTA1ektPVW9sNTl2d1BDS1dWSU9QV1hUNEtYUGRXelBfdTVIVlBlN0lwYU5SdllwX2syN3NDVy1SSlJSVURobUxUTzFJUUtBaUdpd3drNFJDVWwyZ0syRC1oWV9RQk9oeFliZHFkclpMMmtjOGFFWkplU0M1QW5Ra2pKSDBILTNSZEVFMEdURkRtSlZrd3IzSHVXMThE?oc=5"
   },
   {
     "data": "2026-07-20",
